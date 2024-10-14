@@ -1,0 +1,569 @@
+,municipio,latitud,longitud,nombre local,categoría,dirección,distancia (m)
+0,ajalvir,40.5342302,-3.4807818,El Balcón de Quevedo,Café,"Calle Quevedo, s/n, 28860 Paracuellos de Jarama Comunidad de Madrid",4525
+1,ajalvir,40.5342302,-3.4807818,Bar Julio's,Bar,"Calle Real, 1, 28864 Ajalvir Comunidad de Madrid",257
+2,ajalvir,40.5342302,-3.4807818,O'Donnell,Café,"Calle Príncipe Felipe, 27, 28814 Daganzo de Arriba Comunidad de Madrid",2163
+3,ajalvir,40.5342302,-3.4807818,La Romeria,Night Club,"Calle Romería, 0, Km 3, 28864 Ajalvir Comunidad de Madrid",3449
+4,alcala-de-henares,40.4818396,-3.3644973,San Diego Coffee Corner,Café,"Plaza de San Diego, 3, 28801 Alcalá de Henares Comunidad de Madrid",208
+5,alcala-de-henares,40.4818396,-3.3644973,Churrería Metropoli,Café,"Calle de Santiago, 42-48, 28801 Alcalá de Henares Comunidad de Madrid",231
+6,alcala-de-henares,40.4818396,-3.3644973,Manolo Bakes Libreros,Bakery,"Calle Libreros, 24, 28801 Alcalá de Henares Comunidad de Madrid",245
+7,alcala-de-henares,40.4818396,-3.3644973,Café Continental,Café,"Calle Empecinado, 23, 28801 Alcalá de Henares Comunidad de Madrid",395
+8,alcala-de-henares,40.4818396,-3.3644973,Churrería Chocolatería Cibeles,Café,"Calle Talamanca, 29, 28807 Alcalá de Henares Comunidad de Madrid",606
+9,alcala-de-henares,40.4818396,-3.3644973,Bamby,Café,"Avenida Fuerzas Armadas, 6, Alcalá de Henares Comunidad de Madrid",139
+10,alcala-de-henares,40.4818396,-3.3644973,Las Retintas,Bar,"Plaza de los Irlandeses, 9, 28801 Alcalá de Henares Comunidad de Madrid",174
+11,alcala-de-henares,40.4818396,-3.3644973,La Morada,Bar,"Paseo del Val, 16, 28804 Alcalá de Henares Comunidad de Madrid",729
+12,alcala-de-henares,40.4818396,-3.3644973,Cafetería Puerta de Alcalá,Café,"Calle Puerta de Aguadores, 1, 28801 Alcalá de Henares Comunidad de Madrid",343
+13,alcala-de-henares,40.4818396,-3.3644973,La Celiacoteca,Café,"Calle Talamanca, 3, 28807 Alcalá de Henares Comunidad de Madrid",476
+14,alcala-de-henares,40.4818396,-3.3644973,Autocares Alonso,Bus Stop,"Calle Buenos Aires, 2, 28806 Alcalá de Henares Comunidad de Madrid",2041
+15,alcala-de-henares,40.4818396,-3.3644973,Sintonison36,Recording Studio,"Calle Francisco Alonso, 3, 28806 Alcalá de Henares Comunidad de Madrid",2369
+16,alcobendas,40.5400082,-3.6358494,Justo a Tu Gusto,Buffet,"Avenida de la Ermita, 2, 28108 Alcobendas Comunidad de Madrid",467
+17,alcobendas,40.5400082,-3.6358494,La Flor,Bar,"Calle Ruperto Chapi, 57, 28100 Alcobendas Comunidad de Madrid",1006
+18,alcobendas,40.5400082,-3.6358494,La Casita de Chocolate,Café,"Calle de Miraflores, 1, 28100 Alcobendas Comunidad de Madrid",406
+19,alcobendas,40.5400082,-3.6358494,Restaurante Alcalá,Café,"Avenida España, 78, 28700 San Sebastián de los Reyes Comunidad de Madrid",897
+20,alcobendas,40.5400082,-3.6358494,Cervecería Alonso,Beer Bar,"Avenida Madrid, 50 (C. Guipúzcoa), 28701 San Sebastián de los Reyes Comunidad de Madrid",1518
+21,alcobendas,40.5400082,-3.6358494,Dolce Palatino,Café,"Calle Palas de Rey, 22, 28050 The Tables Comunidad de Madrid",4509
+22,alcobendas,40.5400082,-3.6358494,La Cañita,Night Club,"Calle Maestro Priego Lopez, 19, 28100 Alcobendas Comunidad de Madrid",1819
+23,alcobendas,40.5400082,-3.6358494,Queen Food And Music,Café,"Calle Castiello de Jaca, 14, 28050 Madrid Comunidad de Madrid",4965
+24,alcobendas,40.5400082,-3.6358494,Vait,Café,"Avenida de Europa, 13, 28108 Alcobendas Comunidad de Madrid",2878
+25,alcobendas,40.5400082,-3.6358494,Sube y Baja,Bar,"Calle de Pablo Picasso, 56, 28100 Alcobendas Comunidad de Madrid",308
+26,alcobendas,40.5400082,-3.6358494,Linea 4,Bus Stop,"Hermanos Carrasco Garrorena, 4, 06010  Badajoz",1578
+27,alcobendas,40.5400082,-3.6358494,Conservera Bromar,Natural Park,"Avenida Antonio Machado, 81, 28700 San Sebastián de los Reyes Madrid",1949
+28,alcobendas,40.5400082,-3.6358494,Dopplermedia,Recording Studio,"Calle Valencia, 127, 28100 Alcobendas Comunidad de Madrid",1139
+29,alcobendas,40.5400082,-3.6358494,Tempo Studio Records,Recording Studio,"Carretera de Fuencarral, 44, 28108 Alcobendas Comunidad de Madrid",1336
+30,alcobendas,40.5400082,-3.6358494,Tecnison,Recording Studio,"Avenida Industria, 45, 28108 Alcobendas Madrid",1637
+31,alcobendas,40.5400082,-3.6358494,Aaa.Sonido,Recording Studio,"Paseo de Guadalajara, 98, 28701 San Sebastián de los Reyes Madrid",1916
+32,alcobendas,40.5400082,-3.6358494,Dopplermedia,Recording Studio,"Sonrisa Fuente Lucha, 4, 28100 Alcobendas Madrid",2359
+33,alcorcon,40.3492998,-3.8284295,Arasy,Café,"Calle Parque de Cabañeros, 10, 28924 Alcorcón Comunidad de Madrid",1459
+34,alcorcon,40.3492998,-3.8284295,Dunkin´España,Bakery,"Planta Baja. Avenida de America 7-9, 28922 Alcorcón Madrid",1042
+35,alcorcon,40.3492998,-3.8284295,Cafeteria maribi,Café,"Calle Espada, 9, 28921 Alcorcón Comunidad de Madrid",267
+36,alcorcon,40.3492998,-3.8284295,La Flecha,Café,"Avenida de Felipe II, 18, 28936 Móstoles Comunidad de Madrid",3557
+37,alcorcon,40.3492998,-3.8284295,Pastelería Manacor,Café,"Calle Plasencia, 67, 28935 Móstoles Comunidad de Madrid",4470
+38,alcorcon,40.3492998,-3.8284295,Pasteleria Muñoz,Bakery,"Pº Castilla, 1, 28921 Alcorcón Comunidad de Madrid",111
+39,alcorcon,40.3492998,-3.8284295,Dona Vaniri,Café,"Escuelas, 4 (Metro Alcorcon Central), 28921 Alcorcón Comunidad de Madrid",132
+40,alcorcon,40.3492998,-3.8284295,Los Artesanos del Café,Café,"Calle de las Fraguas, 5, 28921 Alcorcón Comunidad de Madrid",158
+41,alcorcon,40.3492998,-3.8284295,M & M,Café,"Calle Nueva, 3, 28921 Alcorcón Comunidad de Madrid",173
+42,alcorcon,40.3492998,-3.8284295,La Mexicana,Café,"Nueva, 2, 28921 Alcorcón Comunidad de Madrid",191
+43,alcorcon,40.3492998,-3.8284295,Autocares Garmabus,Bus Stop,"Avenida del Alcalde de Móstoles, 9, 28932 Móstoles Comunidad de Madrid",3205
+44,alcorcon,40.3492998,-3.8284295,Eternal Midnight Mastering Studio,Recording Studio,"Porto Colón, 14, 28924 Alcorcón Comunidad de Madrid",955
+45,alcorcon,40.3492998,-3.8284295,Sony Dadc Iberia,Recording Studio,"Calle de Olimpico Francisco Fernandez Ochoa, s/n, 28923 Alcorcón Madrid",1421
+46,alcorcon,40.3492998,-3.8284295,Monaguillo Records,Recording Studio,"Pintor Rosales, 6, 28932 Móstoles Madrid",3629
+47,alcorcon,40.3492998,-3.8284295,Minino Records,Recording Studio,"Calle Pintor de Rosales, 6, 28932 Móstoles Madrid",3629
+48,algete,40.5961652,-3.4974246,Cafetería Río de Janeiro,Café,"Calle Pelaya, 2, 28110 Algete Comunidad de Madrid",3892
+49,algete,40.5961652,-3.4974246,Scramble - Sound,Recording Studio,"Calle Jose Maria Peman, 30, 28110 Algete Comunidad de Madrid",1023
+50,alpedrete,40.6599005,-4.0251223,Área de Servicio Villalba - Como,Café,"Autopista Ap-6, Km 42, 28200 Collado Villalba Comunidad de Madrid",2138
+51,alpedrete,40.6599005,-4.0251223,Pasteleria-Cafeteria Candela,Bakery,"Avenida Reina Victoria, 26, 28430 Alpedrete Madrid",2387
+52,alpedrete,40.6599005,-4.0251223,Cake Factory Café,Café,"Avenida Juan Carlos I, 46, 28400 Collado Villalba Comunidad de Madrid",2982
+53,alpedrete,40.6599005,-4.0251223,Tea & Chocolat,Café,"Calle de la Batalla de Bailén, 1, 28400 Collado Villalba Comunidad de Madrid",3586
+54,alpedrete,40.6599005,-4.0251223,Aroma Pastelería Tetería,Café,"Calle Real, 33, 28400 Collado Villalba Comunidad de Madrid",3691
+55,alpedrete,40.6599005,-4.0251223,Play Coffee,Café,"Calle Azuela, 92, 28400 Collado Villalba Comunidad de Madrid",3810
+56,alpedrete,40.6599005,-4.0251223,Capricho's,Café,"Calle Real, 2, 28400 Collado Villalba Comunidad de Madrid",3843
+57,alpedrete,40.6599005,-4.0251223,Caffè.It,Café,"Calle Rafael Alberi, 7, 28400 Collado Villalba Comunidad de Madrid",4050
+58,alpedrete,40.6599005,-4.0251223,Cafetería Punto y Aparte,Café,"Avenida del Marqués de Santillana, 33, 28411 Moralzarzal Comunidad de Madrid",4533
+59,alpedrete,40.6599005,-4.0251223,Cafetería el Ladrillo,Café,"Plaza de la Fragua, 7-9, 28411 Moralzarzal Comunidad de Madrid",4950
+60,alpedrete,40.6599005,-4.0251223,Fernando Mesa,Bus Stop,"Calle del Bronce, 13, 28450 Collado Mediano Comunidad de Madrid",3041
+61,alpedrete,40.6599005,-4.0251223,Conservas Artesanas Rosara,Manufacturer,"Calle Real, 32, 28400 Collado Villalba Comunidad de Madrid",3714
+62,alpedrete,40.6599005,-4.0251223,Redestudio,Recording Studio,"Avenida Reina Victoria, 16, 28430 Alpedrete Madrid",2288
+63,alpedrete,40.6599005,-4.0251223,Redestudio,Recording Studio,"Honorio Lozano, 17, 28400 Collado Villalba Madrid",3726
+64,aranjuez,40.03221,-3.6039604,Casa Delapio,Café,"Avenida Plaza de Toros, 7, 28300 Aranjuez Comunidad de Madrid",478
+65,aranjuez,40.03221,-3.6039604,Bar Restaurante Quid,Café,"Calle Príncipe, 5, 28300 Aranjuez Comunidad de Madrid",448
+66,aranjuez,40.03221,-3.6039604,Contrapunto Cafe Jazz,Cocktail Bar,"Carretera de Andalucía, 9, 28300 Aranjuez Comunidad de Madrid",115
+67,aranjuez,40.03221,-3.6039604,Cafetería Date Un Capricho,Café,"Calle de Postas, 1, 28300 Aranjuez Comunidad de Madrid",128
+68,aranjuez,40.03221,-3.6039604,Dile Ke No,Café,"Postas, 9, 28300 Aranjuez Comunidad de Madrid",281
+69,aranjuez,40.03221,-3.6039604,Don Bocata,Café,"Calle Principe de la Paz, 8, 28300 Aranjuez Comunidad de Madrid",354
+70,aranjuez,40.03221,-3.6039604,Belle Fusion,Bar,"Calle San Antonio, 21 (San Antonio 21), 28300 Aranjuez Comunidad de Madrid",552
+71,aranjuez,40.03221,-3.6039604,Heladería Artesanal Remo,Café,"Calle Stuart, 68, 28300 Aranjuez Comunidad de Madrid",630
+72,aranjuez,40.03221,-3.6039604,Pokhara,Café,"Calle de las Moreras, 26 Bis, 28300 Aranjuez Comunidad de Madrid",767
+73,aranjuez,40.03221,-3.6039604,Cafeteria Pokhara,Café,"Calle Moreras, 38, 28300 Aranjuez Comunidad de Madrid",1220
+74,arganda-del-rey,40.3007708,-3.4380688,Danebora,Café,"Carretera de Loeches, s/n, 28500 Arganda del Rey Comunidad de Madrid",341
+75,arganda-del-rey,40.3007708,-3.4380688,Chocholatería Pastelería Arganda,Café,"Carretera Loeches, 7, 28500 Arganda del Rey Comunidad de Madrid",351
+76,arganda-del-rey,40.3007708,-3.4380688,Cervecería Soccer,Bar,"Avenida República Argentina, 2, 28500 Arganda del Rey Comunidad de Madrid",1499
+77,arganda-del-rey,40.3007708,-3.4380688,Asador Vitis,Café,"Camino San Martín de la Vega, 16, 28500 Arganda del Rey Comunidad de Madrid",1850
+78,arganda-del-rey,40.3007708,-3.4380688,Pasteleria la Moderna,Bakery,"Calle Cabo de Tortosa, 1, 28500 Arganda del Rey Comunidad de Madrid",3343
+79,arganda-del-rey,40.3007708,-3.4380688,Boulevard 3,Café,"Radial, 3, Madrid Comunidad de Madrid",4272
+80,arganda-del-rey,40.3007708,-3.4380688,Juan y francisco camacho,Café,"Avenida Ejercito, 5, Arganda del Rey Madrid",399
+81,arganda-del-rey,40.3007708,-3.4380688,Xpansion Digital,Recording Studio,"Calle Carmen Conde, 34, 28500 Arganda del Rey Madrid",415
+82,batres,40.2091393,-3.9215947,La Gloria,Café,"Calle Espejuelo, 2, 45216 Carranque Castilla-La Mancha",4792
+83,becerril-de-la-sierra,40.7163374,-3.9890681,Pasteleria-Cafeteria Dom-Ca,Bakery,"Paseo San Sebastián, 9, 28490 Becerril de la Sierra Comunidad de Madrid",170
+84,becerril-de-la-sierra,40.7163374,-3.9890681,Cafetería el Ladrillo,Café,"Plaza de la Fragua, 7-9, 28411 Moralzarzal Comunidad de Madrid",4341
+85,becerril-de-la-sierra,40.7163374,-3.9890681,Cafetería Punto y Aparte,Café,"Avenida del Marqués de Santillana, 33, 28411 Moralzarzal Comunidad de Madrid",4950
+86,becerril-de-la-sierra,40.7163374,-3.9890681,Fernando Mesa,Bus Stop,"Calle del Bronce, 13, 28450 Collado Mediano Comunidad de Madrid",4114
+87,boadilla-del-monte,40.4053485,-3.8764663,Horno de Boadilla,Café,"Calle Adolfo Suárez, 15, 28660 Boadilla del Monte Comunidad de Madrid",46
+88,boadilla-del-monte,40.4053485,-3.8764663,La Espuela,Café,"Avenida del Generalisimo, 3 (Jose Antonio), 28660 Boadilla del Monte Comunidad de Madrid",73
+89,boadilla-del-monte,40.4053485,-3.8764663,El Perolo,Café,"Calle Aldea Fresno, 21, 28925 Alcorcón Comunidad de Madrid",3180
+90,boadilla-del-monte,40.4053485,-3.8764663,Cafetería Pavione,Café,"Calle del Valle del Sella, 2, 28669 Boadilla del Monte Comunidad de Madrid",4313
+91,boadilla-del-monte,40.4053485,-3.8764663,Florentino Casco Esteban y Maria Soledad Mesonero Marcos Cdad,Café,"Calle del Convento, 3, 28660 Boadilla del Monte Madrid",197
+92,boadilla-del-monte,40.4053485,-3.8764663,Samovarte y Cafe,Café,"Avenida de Monteprincipe, 23, 28660 Boadilla del Monte Madrid",2954
+93,boadilla-del-monte,40.4053485,-3.8764663,Bar Rafa,Café,"Calle Colada de Pozuelo, 28, 28925 Alcorcón Madrid",3695
+94,boadilla-del-monte,40.4053485,-3.8764663,Round Sound,Recording Studio,"Calle Orotava, 12, 28660 Boadilla del Monte Comunidad de Madrid",319
+95,boadilla-del-monte,40.4053485,-3.8764663,S.B.A. Acustic,Recording Studio,"Calle Herreros Polígono Industrial Prado del Espino, 3 Bajo, 28660 Boadilla del Monte Madrid",45
+96,boadilla-del-monte,40.4053485,-3.8764663,Sonorec,Recording Studio,"Gregorio Marañón, 4, 28660 Boadilla del Monte Madrid",1588
+97,boadilla-del-monte,40.4053485,-3.8764663,Hd studio on line,Recording Studio,"Herreros Polígono Industrial Prado del Espino, 3, 28660 Boadilla del Monte Madrid",2436
+98,boalo-el,40.7173359,-3.9202198,Freak L.E.V.E.L,Recording Studio,"Calle Greco, 15, 28413 El Boalo Madrid",648
+99,brunete,40.4050499,-3.9979912,La Fuente,Café,"Calle del Olivar, 1-11, 28691 Villanueva de la Cañada Comunidad de Madrid",4800
+100,brunete,40.4050499,-3.9979912,Churrería Puerta del Sol,Café,"Calle Real, 29, 28691 Villanueva de la Cañada Comunidad de Madrid",4853
+101,brunete,40.4050499,-3.9979912,Producciones Concentricas,Recording Studio,"Calle del Campo, 14, 28690 Brunete Madrid",196
+102,buitrago-del-lozoya,40.9953477,-3.6350501,El Espolón,Bar,"Calle Real, 60, 28730 Buitrago del Lozoya Comunidad de Madrid",367
+103,cabanillas-de-la-sierra,40.8216089,-3.6259742,Restaurante Genova,Café,"Calle Puerto de Despeñaperros, s/n, 28729 Venturada Madrid",4014
+104,cadalso-de-los-vidrios,40.3014283,-4.4408876,Burger Nete,Bar,"Calle Doctor Menéndez, 2, 28640 Cadalso de Los Vidrios Comunidad de Madrid",240
+105,cadalso-de-los-vidrios,40.3014283,-4.4408876,Restaurante la Barraca de Lorca,Café,"Plaza de la Constitución, 3, 28522 Rivas-Vaciamadrid Comunidad de Madrid",75929
+106,camarma-de-esteruelas,40.5490368,-3.3786211,Restaurante Alcamar,Café,"Calle de Fresadores, 19-25, 28816 Camarma de Esteruelas Comunidad de Madrid",1519
+107,camarma-de-esteruelas,40.5490368,-3.3786211,Cafeteria Edificio Politecnico,Café,"Calle, 18, 28805 Alcalá de Henares Comunidad de Madrid",4741
+108,carabana,40.256626,-3.2347206,Estela,Café,"Plaza de España, 24, 28560 Carabaña Comunidad de Madrid",305
+109,casarrubuelos,40.1707803,-3.8308526,Café Bar la Bruja Motera,Café,"Calle Moratalaz, 16, 28977 Casarrubuelos Comunidad de Madrid",225
+110,casarrubuelos,40.1707803,-3.8308526,Zona Ocio ORANGE,Café,"Griñón, 6, 28991 Torrejón de la Calzada Comunidad de Madrid",4195
+111,casarrubuelos,40.1707803,-3.8308526,Cafeteria Capri,Beer Bar,"Carretera Ugena, 3, 45200 Illescas Castilla-La Mancha",4764
+112,casarrubuelos,40.1707803,-3.8308526,Ele,Café,"Calle Grama, 6, 28971 Griñón Comunidad de Madrid",4825
+113,cenicientos,40.2631894,-4.4669801,Burger Nete,Bar,"Calle Doctor Menéndez, 2, 28640 Cadalso de Los Vidrios Comunidad de Madrid",4792
+114,cenicientos,40.2631894,-4.4669801,Restaurante la Barraca de Lorca,Café,"Plaza de la Constitución, 3, 28522 Rivas-Vaciamadrid Comunidad de Madrid",78595
+115,cercedilla,40.7412931,-4.0558002,El Colonial,Café,"Carrer Manel Farres, 49, 08173 Cercedilla Barcelona",19
+116,cercedilla,40.7412931,-4.0558002,Tres Jaras,Café,"Calle Mayor, 5, 28470 Cercedilla Comunidad de Madrid",51
+117,cercedilla,40.7412931,-4.0558002,La PLAZA CASA Emilio,Café,"Po. Miguel Mdez. Boneta, 21, 28460 Los Molinos Madrid",3295
+118,chapineria,40.379164,-4.2097254,Placituela,Café,"Plaza Calvo Sotelo, 2, Navas del Rey Madrid",3522
+119,chinchon,40.1408293,-3.4231474,Bombonesartesanos,Café,"Calle Ronda del Mediodía, 9, 28370 Chinchón Comunidad de Madrid",475
+120,ciempozuelos,40.1580087,-3.6205514,Swing Café,Bar,"Calle Capitán Antonio de Oro Pulido, 31, 28350 Ciempozuelos Comunidad de Madrid",403
+121,ciempozuelos,40.1580087,-3.6205514,Querol Alimentaria,Natural Park,"Carretera Huelva, 4, 28342 Valdemoro Madrid",3725
+122,cobena,40.5676083,-3.5048565,Cafetería Río de Janeiro,Café,"Calle Pelaya, 2, 28110 Algete Comunidad de Madrid",4065
+123,cobena,40.5676083,-3.5048565,Bar Julio's,Bar,"Calle Real, 1, 28864 Ajalvir Comunidad de Madrid",4461
+124,cobena,40.5676083,-3.5048565,O'Donnell,Café,"Calle Príncipe Felipe, 27, 28814 Daganzo de Arriba Comunidad de Madrid",4789
+125,cobena,40.5676083,-3.5048565,Scramble - Sound,Recording Studio,"Calle Jose Maria Peman, 30, 28110 Algete Comunidad de Madrid",3626
+126,collado-mediano,40.6943707,-4.0247212,Pasteleria-Cafeteria Dom-Ca,Bakery,"Paseo San Sebastián, 9, 28490 Becerril de la Sierra Comunidad de Madrid",3722
+127,collado-mediano,40.6943707,-4.0247212,Cafetería el Ladrillo,Café,"Plaza de la Fragua, 7-9, 28411 Moralzarzal Comunidad de Madrid",4719
+128,collado-mediano,40.6943707,-4.0247212,Cafetería Punto y Aparte,Café,"Avenida del Marqués de Santillana, 33, 28411 Moralzarzal Comunidad de Madrid",4857
+129,collado-mediano,40.6943707,-4.0247212,Proyecto Blimal,Café,"Calle Primavera, 94, 28430 Alpedrete Madrid",4306
+130,collado-mediano,40.6943707,-4.0247212,Cafeteria Feijoó,Café,"Calle Primavera, 94, 28430 Alpedrete Madrid",4308
+131,collado-mediano,40.6943707,-4.0247212,La PLAZA CASA Emilio,Café,"Po. Miguel Mdez. Boneta, 21, 28460 Los Molinos Madrid",4665
+132,collado-mediano,40.6943707,-4.0247212,Fernando Mesa,Bus Stop,"Calle del Bronce, 13, 28450 Collado Mediano Comunidad de Madrid",988
+133,collado-villalba,40.6431496,-3.9930128,Cake Factory Café,Café,"Avenida Juan Carlos I, 46, 28400 Collado Villalba Comunidad de Madrid",1568
+134,collado-villalba,40.6431496,-3.9930128,Tea & Chocolat,Café,"Calle de la Batalla de Bailén, 1, 28400 Collado Villalba Comunidad de Madrid",1727
+135,collado-villalba,40.6431496,-3.9930128,Aroma Pastelería Tetería,Café,"Calle Real, 33, 28400 Collado Villalba Comunidad de Madrid",1915
+136,collado-villalba,40.6431496,-3.9930128,Caffè.It,Café,"Calle Rafael Alberi, 7, 28400 Collado Villalba Comunidad de Madrid",2117
+137,collado-villalba,40.6431496,-3.9930128,Capricho's,Café,"Calle Real, 2, 28400 Collado Villalba Comunidad de Madrid",2146
+138,collado-villalba,40.6431496,-3.9930128,Pasteleria-Cafeteria Candela,Bakery,"Avenida Reina Victoria, 26, 28430 Alpedrete Madrid",2673
+139,collado-villalba,40.6431496,-3.9930128,Play Coffee,Café,"Calle Azuela, 92, 28400 Collado Villalba Comunidad de Madrid",3371
+140,collado-villalba,40.6431496,-3.9930128,Cafetería Punto y Aparte,Café,"Avenida del Marqués de Santillana, 33, 28411 Moralzarzal Comunidad de Madrid",3695
+141,collado-villalba,40.6431496,-3.9930128,Área de Servicio Villalba - Como,Café,"Autopista Ap-6, Km 42, 28200 Collado Villalba Comunidad de Madrid",3923
+142,collado-villalba,40.6431496,-3.9930128,Cafetería el Ladrillo,Café,"Plaza de la Fragua, 7-9, 28411 Moralzarzal Comunidad de Madrid",4389
+143,collado-villalba,40.6431496,-3.9930128,Conservas Artesanas Rosara,Manufacturer,"Calle Real, 32, 28400 Collado Villalba Comunidad de Madrid",1915
+144,collado-villalba,40.6431496,-3.9930128,Redestudio,Recording Studio,"Honorio Lozano, 17, 28400 Collado Villalba Madrid",1672
+145,collado-villalba,40.6431496,-3.9930128,Redestudio,Recording Studio,"Avenida Reina Victoria, 16, 28430 Alpedrete Madrid",2899
+146,colmenar-de-oreja,40.1074198,-3.3871634,Bombonesartesanos,Café,"Calle Ronda del Mediodía, 9, 28370 Chinchón Comunidad de Madrid",4355
+147,colmenar-viejo,40.6587726,-3.7659722,Meson Aljarafe,Café,"Calle de la Retama Nº5, Colmenar Viejo Comunidad de Madrid",205
+148,colmenar-viejo,40.6587726,-3.7659722,Remiro Caffe,Café,"Padre Claret, 1, 28770 Colmenar Viejo Comunidad de Madrid",1082
+149,colmenar-viejo,40.6587726,-3.7659722,Cafes Buen Aroma,Bar,"Calle de Gimialcon, 3, 28770 Colmenar Viejo Comunidad de Madrid",1430
+150,colmenar-viejo,40.6587726,-3.7659722,La Coleta,Café,"Centro Comercial el Mirador, s/n, 28770 Madrid Madrid",951
+151,colmenar-viejo,40.6587726,-3.7659722,Garui,Bar,"Corazón de María, 6, 28770 Colmenar Viejo Madrid",1068
+152,coslada,40.423802,-3.5552882,Heladería Sienna - Winter Café,Bakery,"Calle Galeote, 1, 28032 Madrid Comunidad de Madrid",4924
+153,coslada,40.423802,-3.5552882,9 de Noviembre,Bar,"Calle la Rioja, 3, 28042 Madrid Comunidad de Madrid",4663
+154,coslada,40.423802,-3.5552882,El Gran Café,Café,"Calle del Doctor Michavila, 27, 28821 Coslada Comunidad de Madrid",715
+155,coslada,40.423802,-3.5552882,La Peineta de Niza,Bar,"Avenida Niza, 67, 28022 Madrid Comunidad de Madrid",4635
+156,coslada,40.423802,-3.5552882,Buenos Días Princesa,Bakery,"Plaza del Mar Caribe, 4, 28821 Coslada Comunidad de Madrid",1136
+157,coslada,40.423802,-3.5552882,Pastelería Agmina,Café,"Calle del Dr. Castroviejo, 5, 28821 Coslada Comunidad de Madrid",542
+158,coslada,40.423802,-3.5552882,O'Clock,Cocktail Bar,"Calle Doctor Michavila, 10, 28821 Coslada Comunidad de Madrid",754
+159,coslada,40.423802,-3.5552882,Matadero,Café,"Calle del Rosario, 0, 28821 Coslada Comunidad de Madrid",771
+160,coslada,40.423802,-3.5552882,Yaque Enotaberna,Wine Bar,"Paseo de las Acacias, 15, 28821 Coslada Comunidad de Madrid",1027
+161,coslada,40.423802,-3.5552882,Cacao del Sol,Bar,"Calle Océano Atlántico, 2, 28821 Coslada Comunidad de Madrid",1267
+162,coslada,40.423802,-3.5552882,Elegant Bus,Bus Stop,"Avenida Aragón, 345, 28042 Madrid Comunidad de Madrid",2975
+163,coslada,40.423802,-3.5552882,Bus Terminales T1-T2-T3-T4 Aeropuerto Barajas,Bus Stop,"MAD Airport, Madrid Comunidad de Madrid",4725
+164,coslada,40.423802,-3.5552882,La Casa del Ruido,Recording Studio,"Teatinos, 9, 28823 Coslada Comunidad de Madrid",2460
+165,coslada,40.423802,-3.5552882,Tecnicas de Sonorizacion,Recording Studio,"Avenida Ingeniero Conde de Torroja, 22, 28022 Madrid Comunidad de Madrid",2619
+166,coslada,40.423802,-3.5552882,Revirock,Recording Studio,"Los Cavilas, 4, 28052 Madrid Comunidad de Madrid",3890
+167,coslada,40.423802,-3.5552882,Torres Sonido,Recording Studio,"Toscana, 55, 28032 Madrid Comunidad de Madrid",4854
+168,cubas-de-la-sagra,40.1908352,-3.8378366,Café Bar la Bruja Motera,Café,"Calle Moratalaz, 16, 28977 Casarrubuelos Comunidad de Madrid",2517
+169,cubas-de-la-sagra,40.1908352,-3.8378366,Ele,Café,"Calle Grama, 6, 28971 Griñón Comunidad de Madrid",2532
+170,cubas-de-la-sagra,40.1908352,-3.8378366,Zona Ocio ORANGE,Café,"Griñón, 6, 28991 Torrejón de la Calzada Comunidad de Madrid",3294
+171,daganzo-de-arriba,40.5451953,-3.45785,O'Donnell,Café,"Calle Príncipe Felipe, 27, 28814 Daganzo de Arriba Comunidad de Madrid",218
+172,daganzo-de-arriba,40.5451953,-3.45785,Bar Julio's,Bar,"Calle Real, 1, 28864 Ajalvir Comunidad de Madrid",2426
+173,escorial-el,40.5890661,-4.147394873409854,Croché Cafetín,Cocktail Bar,"Calle San Lorenzo, 6, 28200 El Escorial Comunidad de Madrid",241
+174,escorial-el,40.5890661,-4.147394873409854,Pan y Canela,Café,"Plaza de la Cruz, 1, 28200 El Escorial Comunidad de Madrid",254
+175,escorial-el,40.5890661,-4.147394873409854,Alaska,Café,"Plaza San Lorenzo, 4 (C. Rey), 28200 El Escorial Comunidad de Madrid",253
+176,escorial-el,40.5890661,-4.147394873409854,Terraza los Jardincillos,Café,"Plaza San Lorenzo, 18, 28200 El Escorial Comunidad de Madrid",215
+177,escorial-el,40.5890661,-4.147394873409854,caffetteria ristorante del Arte,Sandwich Spot,"Calle Floridablanca 12-14, 28200 El Escorial Comunidad de Madrid",207
+178,escorial-el,40.5890661,-4.147394873409854,Rodilla,Café,"Calle Juan de Toledo, 5, 28200 San Lorenzo de El Escorial Madrid",461
+179,fuenlabrada,40.282476,-3.7923422,La Villa,Bar,"Avenida Francisco Javier Sauquillo, 39 (Av. Francisco Javier Sauquillo), 28944 Fuenlabrada Comunidad de Madrid",208
+180,fuenlabrada,40.282476,-3.7923422,El Mirador,Café,"Paseo del Dr Severo Ochoa, 2, 28945 Fuenlabrada Comunidad de Madrid",367
+181,fuenlabrada,40.282476,-3.7923422,Cheers,Bar,"Calle de Extremadura, 17, 28944 Fuenlabrada Comunidad de Madrid",399
+182,fuenlabrada,40.282476,-3.7923422,Cafetería Reyes,Café,"Calle de los Ángeles, 4, 28945 Fuenlabrada Comunidad de Madrid",474
+183,fuenlabrada,40.282476,-3.7923422,Cafeteria Leo,Bar,"Avenida Francisco Javier Sauquillo, 6, 28944 Fuenlabrada Comunidad de Madrid",498
+184,fuenlabrada,40.282476,-3.7923422,Cafeteria Yoli,Café,"Calle Constitucion, 48, 28944 Fuenlabrada Comunidad de Madrid",565
+185,fuenlabrada,40.282476,-3.7923422,Eboli,Café,"Calle de la Noria, 1, 28943 Fuenlabrada Comunidad de Madrid",589
+186,fuenlabrada,40.282476,-3.7923422,Cafetería el Castor,Café,"Calle Leganes, 42, 28945 Fuenlabrada Comunidad de Madrid",595
+187,fuenlabrada,40.282476,-3.7923422,Dublin,Café,"Calle Lope de Vega, 13, 46910  Valencia",890
+188,fuenlabrada,40.282476,-3.7923422,El Café de Laura,Café,"Avenida de España, 24, 28941 Fuenlabrada Comunidad de Madrid",1220
+189,fuenlabrada,40.282476,-3.7923422,Anti Studio,Recording Studio,"Calle de Sevilla, 6, 28941 Fuenlabrada Comunidad de Madrid",1118
+190,fuenlabrada,40.282476,-3.7923422,Talento Sin Fronteras,Recording Studio,"Avenida Hispanidad, 16, 28945 Fuenlabrada Madrid",1248
+191,fuenlabrada,40.282476,-3.7923422,Carabina 30 30,Recording Studio,"Calle de las Artes, 11, 28905 Getafe Madrid",3075
+192,fuenlabrada,40.282476,-3.7923422,Flexiguia,Recording Studio,"Plaza Tagore, 2, 28905 Getafe Madrid",4470
+193,fuente-el-saz-de-jarama,40.6312151,-3.5125918,Scramble - Sound,Recording Studio,"Calle Jose Maria Peman, 30, 28110 Algete Comunidad de Madrid",3471
+194,fuentiduena-de-tajo,40.1185446,-3.160254,El Rincón de Tomás,Bar,"Avenida de Elena Soriano, 30, 28597 Fuentidueña de Tajo Comunidad de Madrid",140
+195,galapagar,40.5774992,-4.0037748,El quiosco del Bulevar,Café,"Calle Rosario Manzaneque Nº 1 (Rosario Manzaneque 1), 28250 Torrelodones Comunidad de Madrid",3998
+196,galapagar,40.5774992,-4.0037748,Marylebone,Café,"Calle Piamonte, 15, 28420 Galapagar Comunidad de Madrid",4297
+197,galapagar,40.5774992,-4.0037748,Piccolo,Recording Studio,"Calle Ángel Yagüe, 1, 28250 Torrelodones Madrid",4027
+198,gascones,41.0185654,-3.641499,El Espolón,Bar,"Calle Real, 60, 28730 Buitrago del Lozoya Comunidad de Madrid",2879
+199,getafe,40.3070639,-3.7331808,Café el Violín,Arts and Entertainment,"Calle Velasco, 10, 28901 Getafe Comunidad de Madrid",328
+200,getafe,40.3070639,-3.7331808,Café-Restaurante el Tiempo,Bar,"Calle Madrid, 102, Getafe Comunidad de Madrid",705
+201,getafe,40.3070639,-3.7331808,Arroceria el Cardenal,Bar,"Calle Madrid, 20, 28901 Getafe Comunidad de Madrid",206
+202,getafe,40.3070639,-3.7331808,Dunkin´España,Café,"Planta Baja Avenida Rio Guadalquivir, 13, 28906 Getafe Comunidad de Madrid",4909
+203,getafe,40.3070639,-3.7331808,El Rincón bar café,Bar,"Calle Leganés, 5, 28902 Getafe Comunidad de Madrid",136
+204,getafe,40.3070639,-3.7331808,Diario de un Ciclista,Café,"Polvoranca, 15, 28901 Getafe Comunidad de Madrid",275
+205,getafe,40.3070639,-3.7331808,La Colegiata,Café,"Velasco, 13, 28901 Getafe Comunidad de Madrid",277
+206,getafe,40.3070639,-3.7331808,Coemco Restauracion,Café,"Carretera Toledo M-401, Km 12, 28901 Getafe Comunidad de Madrid",330
+207,getafe,40.3070639,-3.7331808,London Café Getafe,Beer Bar,"Calle General Castaños, 1, 28902 Getafe Comunidad de Madrid",555
+208,getafe,40.3070639,-3.7331808,Bar Trebol,Bar,"Calle Depositos, 1, 28903 Getafe Comunidad de Madrid",870
+209,getafe,40.3070639,-3.7331808,Atlas Bus,Bus Stop,"Calle Solidaridad, 9, 28906 Getafe Comunidad de Madrid",4859
+210,getafe,40.3070639,-3.7331808,Af Gestion de Sonido y Comunicación,Recording Studio,"Carpinteros, 7, 28906 Getafe Madrid",1024
+211,getafe,40.3070639,-3.7331808,Flexiguia,Recording Studio,"Plaza Tagore, 2, 28905 Getafe Madrid",1765
+212,getafe,40.3070639,-3.7331808,Sonido Libre,Recording Studio,"Calle Marie Curie, 15, 28906 Getafe Madrid",2569
+213,getafe,40.3070639,-3.7331808,Carabina 30 30,Recording Studio,"Calle de las Artes, 11, 28905 Getafe Madrid",3080
+214,getafe,40.3070639,-3.7331808,Estudios Tu Grabas,Recording Studio,"Bascuñuelos, 11, 28021 Madrid Madrid",3793
+215,getafe,40.3070639,-3.7331808,Tú Grabas,Recording Studio,"Avenida Real de Pinto, 126, 28021 Madrid Madrid",3793
+216,getafe,40.3070639,-3.7331808,Talento Sin Fronteras,Recording Studio,"Avenida Hispanidad, 16, 28945 Fuenlabrada Madrid",4730
+217,grinon,40.2136607,-3.8581479,Ele,Café,"Calle Grama, 6, 28971 Griñón Comunidad de Madrid",750
+218,guadarrama,40.6734454,-4.0893911,Panadería Cafetería Pastelería Hernández,Bakery,"Calle el Escorial, 13, 28440 Guadarrama Comunidad de Madrid",187
+219,guadarrama,40.6734454,-4.0893911,Café Claqué,Café,"Calle Leones de Castilla, 14, 28440 Guadarrama Comunidad de Madrid",48
+220,guadarrama,40.6734454,-4.0893911,Meson la torre,Café,"Calle Cervantes, 1, 28440 Guadarrama Comunidad de Madrid",160
+221,guadarrama,40.6734454,-4.0893911,¡Ké cafetería,Bar,"Calle de San Roque, 37, Guadarrama Comunidad de Madrid",549
+222,guadarrama,40.6734454,-4.0893911,La PLAZA CASA Emilio,Café,"Po. Miguel Mdez. Boneta, 21, 28460 Los Molinos Madrid",4785
+223,horcajuelo-de-la-sierra,41.0601151,-3.5457391,Taberna el Trebol,Café,"Calle Rosario, 1, 28191 Prádena del Rincón Comunidad de Madrid",1838
+224,hoyo-de-manzanares,40.6227334,-3.9072054,Cafe Mayor,Café,"Avenida de la Paloma, 2, 28240 Hoyo de Manzanares Comunidad de Madrid",65
+225,humanes-de-madrid,40.2508847,-3.8270997,Dublin,Café,"Calle Lope de Vega, 13, 46910  Valencia",4168
+226,humanes-de-madrid,40.2508847,-3.8270997,Eboli,Café,"Calle de la Noria, 1, 28943 Fuenlabrada Comunidad de Madrid",4168
+227,humanes-de-madrid,40.2508847,-3.8270997,Cheers,Bar,"Calle de Extremadura, 17, 28944 Fuenlabrada Comunidad de Madrid",4193
+228,humanes-de-madrid,40.2508847,-3.8270997,Cafeteria Garcia,Bar,"Alemania. s/n, 28943 Fuenlabrada Comunidad de Madrid",4343
+229,humanes-de-madrid,40.2508847,-3.8270997,Ele,Café,"Calle Grama, 6, 28971 Griñón Comunidad de Madrid",4751
+230,humanes-de-madrid,40.2508847,-3.8270997,Cafeteria Yoli,Café,"Calle Constitucion, 48, 28944 Fuenlabrada Comunidad de Madrid",4768
+231,humanes-de-madrid,40.2508847,-3.8270997,La Villa,Bar,"Avenida Francisco Javier Sauquillo, 39 (Av. Francisco Javier Sauquillo), 28944 Fuenlabrada Comunidad de Madrid",4787
+232,humanes-de-madrid,40.2508847,-3.8270997,El Mirador,Café,"Paseo del Dr Severo Ochoa, 2, 28945 Fuenlabrada Comunidad de Madrid",4810
+233,humanes-de-madrid,40.2508847,-3.8270997,Cafeteria Leo,Bar,"Avenida Francisco Javier Sauquillo, 6, 28944 Fuenlabrada Comunidad de Madrid",4878
+234,humanes-de-madrid,40.2508847,-3.8270997,Cafetería Humanes,Café,"Calle Madrid, 85, 28970 Humanes de Madrid Madrid",722
+235,humanes-de-madrid,40.2508847,-3.8270997,Idemm Estudios,Recording Studio,"Calle Hoyos, 10, 28981 Parla Comunidad de Madrid",4879
+236,leganes,10.785528,122.5888137,Kumedor Grind by Bugoy's,Café,"5000 Iloilo City, Iloilo",3130
+237,leganes,10.785528,122.5888137,Zerrudo's Exclusive Lounge,Café,,3927
+238,leganes,10.785528,122.5888137,Rookey’s Cafe,Café,"Jaro, 5000 Iloilo City, Iloilo",4732
+239,leganes,10.785528,122.5888137,Cinco,Café,"Jaro, 5000 Iloilo City, Iloilo",4881
+240,leganes,10.785528,122.5888137,Business Owner,Café,"22 Lot 11 Phase 4 Gran Plain Subdivision, 5000 Iloilo City",4981
+241,madarcos,41.0477311,-3.5821549,Taberna el Trebol,Café,"Calle Rosario, 1, 28191 Prádena del Rincón Comunidad de Madrid",3456
+242,madrid,40.4167047,-3.7035825,Pum Pum Bakery,Café,"Calle de la Esgrima, 1, 28012 Madrid Comunidad de Madrid",595
+243,madrid,40.4167047,-3.7035825,Café de la Luz,Bar,"Calle Puebla, 8 (Calle Del Barco), 28004 Madrid Comunidad de Madrid",610
+244,madrid,40.4167047,-3.7035825,Valdemeso,Restaurant,"Mesonero Romanos, 8, 28013 Madrid Comunidad de Madrid",301
+245,madrid,40.4167047,-3.7035825,HanSo Café,Café,"Calle del Pez, 20, 28004 Madrid Comunidad de Madrid",813
+246,madrid,40.4167047,-3.7035825,Chocolatería San Ginés,Café,"Pasadizo de San Ginés, 5 (C. Arenal), 28013 Madrid Comunidad de Madrid",280
+247,madrid,40.4167047,-3.7035825,El Jardín de Salvador Bachiller,Café,"Calle Montera, 37, 28013 Madrid Comunidad de Madrid",288
+248,madrid,40.4167047,-3.7035825,Four,Café,"Calle de Calderón de la Barca, 8 (Tr. de los Señores de Luzón), 28013 Madrid Comunidad de Madrid",643
+249,madrid,40.4167047,-3.7035825,Caravan Cafe,Café,"Calle de Lavapiés, 32, Madrid Comunidad de Madrid",715
+250,madrid,40.4167047,-3.7035825,Acid Café,Café,"Calle Verónica, 9, 28014 Madrid Comunidad de Madrid",902
+251,madrid,40.4167047,-3.7035825,Federal Café 2,Café,"Plaza Conde de Barajas, 3, 28005 Madrid Comunidad de Madrid",517
+252,madrid,40.4167047,-3.7035825,Las Rozas Village Shopping Express,Bus Stop,"Plaza España, 20, 28008 Madrid Comunidad de Madrid",1055
+253,madrid,40.4167047,-3.7035825,Parada EMT 671,Bus Stop,"Calle Goya, 7 (Plaza de Colón), 28001 Madrid Comunidad de Madrid",1576
+254,madrid,40.4167047,-3.7035825,Parada Atocha Renfe - Línea Exprés Aeropuerto,Bus Stop,28014 Madrid Comunidad de Madrid,1610
+255,madrid,40.4167047,-3.7035825,Parada EMT 1184,Bus Stop,"Paseo de las Delicias, 47 (Calle Del Áncora), Madrid Comunidad de Madrid",1762
+256,madrid,40.4167047,-3.7035825,Parada EMT 328,Bus Stop,"Paseo de las Acacias, 69 (Glorieta de Pirámides), 28005 Madrid Comunidad de Madrid",1908
+257,madrid,40.4167047,-3.7035825,Parada bus EMT #1454 Caramuel-Antillon nº32,Bus Stop,"Calle Caramuel, 32, 28011 Madrid Comunidad de Madrid",2116
+258,madrid,40.4167047,-3.7035825,Intercambiador Felipe II,Bus Stop,28009 Madrid Comunidad de Madrid,2461
+259,madrid,40.4167047,-3.7035825,Cibeles Bus,Bus Stop,"Calle Julio Domingo, 15, 28019 Madrid Comunidad de Madrid",3711
+260,madrid,40.4167047,-3.7035825,Parada EMT 756,Bus Stop,"Calle Alcalá 202, 28028 Madrid Comunidad de Madrid",3717
+261,madrid,40.4167047,-3.7035825,Parada EMT 2377,Bus Stop,"Calle Corazón de María, 44 (C. Santa Hortensia, 26-28 (IBM)), 28002 Madrid Comunidad de Madrid",4291
+262,madrid,40.4167047,-3.7035825,Dalamix,Recording Studio,"Plaza San Cristobal, 3, 28022 Madrid Comunidad de Madrid",184
+263,madrid,40.4167047,-3.7035825,Am Editorial,Recording Studio,"Atocha, 10, 28012 Madrid Comunidad de Madrid",267
+264,madrid,40.4167047,-3.7035825,Am Escudero Estudios Audiovisuales,Recording Studio,"Calle Atocha, 10, 28012 Madrid Comunidad de Madrid",271
+265,madrid,40.4167047,-3.7035825,Tritono Servicios Musicales,Recording Studio,"Miguel Moya, 4, 28004 Madrid Comunidad de Madrid",467
+266,madrid,40.4167047,-3.7035825,Rec Division Studios,Recording Studio,"Plaza Mostenses, 1, 28015 Madrid Comunidad de Madrid",879
+267,madrid,40.4167047,-3.7035825,Robin Groove,Recording Studio,"San Vicente Ferrer, 24, 28004 Madrid Comunidad de Madrid",1011
+268,madrid,40.4167047,-3.7035825,Sonobox Producciones Musicales,Recording Studio,"Calle Angel, 14, 28005 Madrid Comunidad de Madrid",1074
+269,madrid,40.4167047,-3.7035825,Hi VIP,Recording Studio,"Calle Amaniel, 31 (C. Montserrat), 28015 Madrid Comunidad de Madrid",1312
+270,madrid,40.4167047,-3.7035825,Voces en la Red,Recording Studio,"Bravo Murillo, 23, 28015 Madrid Comunidad de Madrid",2101
+271,madrid,40.4167047,-3.7035825,Sounders Creacion Sonora,Recording Studio,"Calle Vicente Martin Arias, 17, 28019 Madrid Comunidad de Madrid",2434
+272,majadahonda,40.473055,-3.8724138,Cafeteria Sorrento,Bar,"Gran Vía, 15, 28220 Majadahonda Comunidad de Madrid",79
+273,majadahonda,40.473055,-3.8724138,Taruffi,Café,"Calle de las Moreras, 2 (Centro Oeste), 28222 Majadahonda Comunidad de Madrid",2240
+274,majadahonda,40.473055,-3.8724138,Nahuel Cafeteria,Café,"Calle Bruselas, 26, 28232 Las Rozas Comunidad de Madrid",4001
+275,majadahonda,40.473055,-3.8724138,Mile,Burger Joint,"Calle Principado de Asturias, 6, 28231 Las Rozas Comunidad de Madrid",1684
+276,majadahonda,40.473055,-3.8724138,Tambo,Bar,"Avenida de la Coruña, 42, 28231 Las Rozas Comunidad de Madrid",2136
+277,majadahonda,40.473055,-3.8724138,Castilla,Café,"Real, 20, 28231 Las Rozas Comunidad de Madrid",2085
+278,majadahonda,40.473055,-3.8724138,La Esquinita de Rozas,Brewery,"Calle Navarra Nr, 6, Las Rozas Comunidad de Madrid",2273
+279,majadahonda,40.473055,-3.8724138,Meeting Point las Rozas,Bar,"Plaza España, 4, 28230 Las Rozas Comunidad de Madrid",2297
+280,majadahonda,40.473055,-3.8724138,Estación de las Rozas,Café,"Salida, 18 (Estación de Renfe Las Rozas), 28231 Las Rozas Comunidad de Madrid",2381
+281,majadahonda,40.473055,-3.8724138,Cafetería Hospital Puerta de Hierro,Café,"Calle Manuel de Falla, 1 (Las Moreras), 28222 Majadahonda Comunidad de Madrid",2506
+282,majadahonda,40.473055,-3.8724138,Sonora Majadahonda,Recording Studio,"Avenida Claveles, 74, 28221 Majadahonda Comunidad de Madrid",1054
+283,majadahonda,40.473055,-3.8724138,Cezanne Producciones,Recording Studio,"Nave, 11, 28232 Las Rozas Comunidad de Madrid",3783
+284,majadahonda,40.473055,-3.8724138,Polka Projet,Recording Studio,"Pinos, 55, 28221 Majadahonda Madrid",1014
+285,manzanares-el-real,40.7267632,-3.864981,Freak L.E.V.E.L,Recording Studio,"Calle Greco, 15, 28413 El Boalo Madrid",4257
+286,meco,40.553746,-3.3281561,Cafeteria Edificio Politecnico,Café,"Calle, 18, 28805 Alcalá de Henares Comunidad de Madrid",4938
+287,mejorada-del-campo,40.3971785,-3.4896068,Dulce Café,Café,"Calle Margarita Xirgu, 2 (Avenida Plaza De Las Madres De Mayo), 28523 Rivas-Vaciamadrid Madrid",4748
+288,mejorada-del-campo,40.3971785,-3.4896068,La Sabana CAFÉ,Bar,"Avenida de la Constitución, s/n, 28840 Mejorada del Campo Comunidad de Madrid",53
+289,mejorada-del-campo,40.3971785,-3.4896068,Casa de la Cultura,Theater,"Plaza Ilustración, 9, 28840 Mejorada del Campo Comunidad de Madrid",566
+290,mejorada-del-campo,40.3971785,-3.4896068,Lorca,Café,"Avenida Irún, s/n, 28830 San Fernando de Henares Comunidad de Madrid",4515
+291,mejorada-del-campo,40.3971785,-3.4896068,Chocolateria cafeteria el tazon,Café,"Calle Vicente Gaos, 3, Coslada Comunidad de Madrid",4701
+292,mejorada-del-campo,40.3971785,-3.4896068,Heat Room,Recording Studio,"Aragon, 35, 28840 Mejorada del Campo Madrid",1462
+293,molar-el,40.7347865,-3.584376,Www.audiosuite.es,Recording Studio,"Príncipe, 14, 28710 El Molar Madrid",384
+294,molinos-los,4.55,-74.1166667,Salsamentaria San Juan,Burger Joint,"Calle 44 50 31, Bogotá, Antioquia",3513
+295,molinos-los,4.55,-74.1166667,Joshua Cafe - Bar,Bar,"Calle 19, ~14581 (Av Cra 27 N. 38a 83 sur), Bogotá, Bogotá D.C.",4665
+296,molinos-los,4.55,-74.1166667,Joshua Cafe - Bar,Bar,"Local 4-19, Bogotá, Bogotá D.C.",16369
+297,molinos-los,4.55,-74.1166667,Dore,Café,"Bogotá, Bogotá D.C.",1453
+298,molinos-los,4.55,-74.1166667,Kafeto - Making Coffee,Café,"Calle 65 Sur # 1A-51 Este - - (Portal Usme), Bogotá, Bogotá D.C.",1860
+299,molinos-los,4.55,-74.1166667,Sciroko,Café,"Calle 53 Sur 18A 16 L-3 San Carlos (18A), Bogotá, Bogotá D.C.",2374
+300,molinos-los,4.55,-74.1166667,Picos Tunal,Café,"Carrera, 17 53S-2 a 53S-100, Bogotá",2550
+301,molinos-los,4.55,-74.1166667,Café Herbalife,Café,,2585
+302,molinos-los,4.55,-74.1166667,Perry Burguer,Burger Joint,"Carrera, 24B 2 a 100, Bogotá",3187
+303,molinos-los,4.55,-74.1166667,Bancolombia EXITO TUNAL,Bank,"Calle 47B Sur N° 24B - 33, Bogotá, Bogotá D.C.",3526
+304,molinos-los,4.55,-74.1166667,Estacion De Transmilenio Socorro,Landmarks and Outdoors,"Avenida Calle 51 Sur (Carrera 15), Bogotá, Bogotá D.C.",1915
+305,molinos-los,4.55,-74.1166667,Estación Transmilenio 20 de Julio,Bus Stop,,2384
+306,molinos-los,4.55,-74.1166667,TransMilenio: Calle 40 Sur,Bus Stop,"Avenida Carrera 14 (Diagonal 37 B Sur), Bogotá, Bogotá D.C.",2888
+307,molinos-los,4.55,-74.1166667,TransMilenio: Fucha,Bus Stop,"Avenida Carrera 14 (Calle 17 Sur), Bogotá, Bogotá D.C.",4143
+308,molinos-los,4.55,-74.1166667,SITP: Eduardo Frei,Bus Stop,"Avenida NQS - Calle 27a Sur, Bogotá D.C.",4442
+309,molinos-los,4.55,-74.1166667,Estacion Transmilenio General Santander,Bus Stop,"Carrera 50A, Bogotá, Bogotá D.C.",5071
+310,montejo-de-la-sierra,41.0593529,-3.530299,Taberna el Trebol,Café,"Calle Rosario, 1, 28191 Prádena del Rincón Comunidad de Madrid",1943
+311,moraleja-de-enmedio,40.2615532,-3.8612117,Cafetería Humanes,Café,"Calle Madrid, 85, 28970 Humanes de Madrid Madrid",3174
+312,moralzarzal,40.6791436,-3.9720985,Pasteleria-Cafeteria Dom-Ca,Bakery,"Paseo San Sebastián, 9, 28490 Becerril de la Sierra Comunidad de Madrid",4245
+313,moralzarzal,40.6791436,-3.9720985,Cafetería el Ladrillo,Café,"Plaza de la Fragua, 7-9, 28411 Moralzarzal Comunidad de Madrid",32
+314,moralzarzal,40.6791436,-3.9720985,Cafetería Punto y Aparte,Café,"Avenida del Marqués de Santillana, 33, 28411 Moralzarzal Comunidad de Madrid",683
+315,moralzarzal,40.6791436,-3.9720985,Fernando Mesa,Bus Stop,"Calle del Bronce, 13, 28450 Collado Mediano Comunidad de Madrid",4005
+316,mostoles,40.3238525,-3.8649214,La Flecha,Café,"Avenida de Felipe II, 18, 28936 Móstoles Comunidad de Madrid",1073
+317,mostoles,40.3238525,-3.8649214,Dunkin´España,Bakery,"Planta Baja. Avenida de America 7-9, 28922 Alcorcón Madrid",4780
+318,mostoles,40.3238525,-3.8649214,Mokalia Móstoles,Café,"Avenida Alcalde de Móstoles, 27, 28933 Móstoles Comunidad de Madrid",1221
+319,mostoles,40.3238525,-3.8649214,Pastelería Manacor,Café,"Calle Plasencia, 67, 28935 Móstoles Comunidad de Madrid",3388
+320,mostoles,40.3238525,-3.8649214,Bar el Rincón del Pescador,Café,"Calle de Colón, 1-19, 28931 Móstoles Comunidad de Madrid",237
+321,mostoles,40.3238525,-3.8649214,Cafeteria Goya,Bar,"Goya Nº6, 28931 Móstoles Comunidad de Madrid",342
+322,mostoles,40.3238525,-3.8649214,Bar la Estrella,Café,"Carrera, s/n, 28931 Móstoles Comunidad de Madrid",421
+323,mostoles,40.3238525,-3.8649214,Bocatis,Café,"Avenida Constitución, 53, 28931 Móstoles Comunidad de Madrid",508
+324,mostoles,40.3238525,-3.8649214,Velada 7,Wine Bar,"Cervantes, 8, Móstoles Comunidad de Madrid",693
+325,mostoles,40.3238525,-3.8649214,La Gaviota,Bar,"Calle Empecinado, 44, 28937 Móstoles Comunidad de Madrid",820
+326,mostoles,40.3238525,-3.8649214,Autocares Garmabus,Bus Stop,"Avenida del Alcalde de Móstoles, 9, 28932 Móstoles Comunidad de Madrid",1145
+327,mostoles,40.3238525,-3.8649214,Eternal Midnight Mastering Studio,Recording Studio,"Porto Colón, 14, 28924 Alcorcón Comunidad de Madrid",4915
+328,mostoles,40.3238525,-3.8649214,Monaguillo Records,Recording Studio,"Pintor Rosales, 6, 28932 Móstoles Madrid",929
+329,mostoles,40.3238525,-3.8649214,Minino Records,Recording Studio,"Calle Pintor de Rosales, 6, 28932 Móstoles Madrid",929
+330,mostoles,40.3238525,-3.8649214,Sony Dadc Iberia,Recording Studio,"Calle de Olimpico Francisco Fernandez Ochoa, s/n, 28923 Alcorcón Madrid",4266
+331,mostoles,40.3238525,-3.8649214,Estudios Xlr,Recording Studio,"San Francisco, 21, 28670 Villaviciosa de Odón Madrid",4632
+332,navacerrada,40.7287926,-4.0151676,Pasteleria-Cafeteria Dom-Ca,Bakery,"Paseo San Sebastián, 9, 28490 Becerril de la Sierra Comunidad de Madrid",2634
+333,navacerrada,40.7287926,-4.0151676,El Colonial,Café,"Carrer Manel Farres, 49, 08173 Cercedilla Barcelona",3673
+334,navacerrada,40.7287926,-4.0151676,Tres Jaras,Café,"Calle Mayor, 5, 28470 Cercedilla Comunidad de Madrid",3707
+335,navacerrada,40.7287926,-4.0151676,Fernando Mesa,Bus Stop,"Calle del Bronce, 13, 28450 Collado Mediano Comunidad de Madrid",4673
+336,navalcarnero,40.2877169,-4.014299,Tomeet Cafetería,Café,"Calle Italia, 9, 28600 Navalcarnero Comunidad de Madrid",256
+337,navalcarnero,40.2877169,-4.014299,El Burladero,Café,"Calle Laso, 13, 28600 Navalcarnero Comunidad de Madrid",556
+338,navalcarnero,40.2877169,-4.014299,Control de Tierra,Recording Studio,"Plaza de Segovia, 1, 28600 Navalcarnero Madrid",2135
+339,navalcarnero,40.2877169,-4.014299,Montenegro Producciones Escenograficas,Recording Studio,"Calle de la Romeria, 9, 28600 Navalcarnero Madrid",2844
+340,navas-del-rey,40.3863666,-4.2508402,Placituela,Café,"Plaza Calvo Sotelo, 2, Navas del Rey Madrid",157
+341,nuevo-baztan,40.3659255,-3.2443102,La Fontana,Café,"Plaza Centro Comercial la, 0, 28514 Nuevo Baztán Comunidad de Madrid",2114
+342,olmeda-de-las-fuentes,40.3695225,-3.2213199,La Fontana,Café,"Plaza Centro Comercial la, 0, 28514 Nuevo Baztán Comunidad de Madrid",4015
+343,orusco-de-tajuna,40.2853409,-3.2096521,Estela,Café,"Plaza de España, 24, 28560 Carabaña Comunidad de Madrid",3931
+344,paracuellos-de-jarama,40.5048527,-3.5317621,El Balcón de Quevedo,Café,"Calle Quevedo, s/n, 28860 Paracuellos de Jarama Comunidad de Madrid",1704
+345,paracuellos-de-jarama,40.5048527,-3.5317621,Churrería la Nueva,Café,"Calle Real, 50, 28860 Paracuellos de Jarama Comunidad de Madrid",259
+346,paracuellos-de-jarama,40.5048527,-3.5317621,Natural Break,Café,"Terminal, 4, 28042 Madrid Comunidad de Madrid",3125
+347,paracuellos-de-jarama,40.5048527,-3.5317621,Take Away,Restaurant,"Terminal 4S, 28042 Madrid Comunidad de Madrid",3116
+348,paracuellos-de-jarama,40.5048527,-3.5317621,Deli & Cia,Café,"Aeropuerto Madrid-Barajas. Terminal 4S, 28042 Madrid Comunidad de Madrid",3116
+349,paracuellos-de-jarama,40.5048527,-3.5317621,La Romeria,Night Club,"Calle Romería, 0, Km 3, 28864 Ajalvir Comunidad de Madrid",4377
+350,parla,40.2373952,-3.7718902,Bar la Perdiz,Café,"Calle San Anton, 34, 28982 Parla Comunidad de Madrid",217
+351,parla,40.2373952,-3.7718902,Restaurante-Cafetería Alameda,Bar,"Avenida Juan Carlos I, 3, Parla Comunidad de Madrid",376
+352,parla,40.2373952,-3.7718902,Loren's,Bar,"Calle San Anton, 58, 28982 Parla Comunidad de Madrid",393
+353,parla,40.2373952,-3.7718902,Paladar y Tomar,Bar,"Calle de Pinto, 39, 28982 Parla Comunidad de Madrid",482
+354,parla,40.2373952,-3.7718902,Biergarten,Beer Bar,"Avenida de Juan Carlos I, 10, 28981 Parla Comunidad de Madrid",1306
+355,parla,40.2373952,-3.7718902,Turín 15 Café & Chill Out,Cocktail Bar,"Calle Turín, 15, 28983 Parla Comunidad de Madrid",1392
+356,parla,40.2373952,-3.7718902,Eboli,Café,"Calle de la Noria, 1, 28943 Fuenlabrada Comunidad de Madrid",4739
+357,parla,40.2373952,-3.7718902,Zona Ocio ORANGE,Café,"Griñón, 6, 28991 Torrejón de la Calzada Comunidad de Madrid",4746
+358,parla,40.2373952,-3.7718902,Cafeteria Yoli,Café,"Calle Constitucion, 48, 28944 Fuenlabrada Comunidad de Madrid",4929
+359,parla,40.2373952,-3.7718902,La Madrileña,Bar,"Calle Pintor Sorolla, 11, 28982 Parla Madrid",958
+360,parla,40.2373952,-3.7718902,Idemm Estudios,Recording Studio,"Calle Hoyos, 10, 28981 Parla Comunidad de Madrid",233
+361,parla,40.2373952,-3.7718902,Homestudio Musiccesar,Recording Studio,"Estrella Polar Parla-Este, 14, 28983 Parla Madrid",1839
+362,pedrezuela,40.7451088,-3.6030185,Restaurante Genova,Café,"Calle Puerto de Despeñaperros, s/n, 28729 Venturada Madrid",4825
+363,pedrezuela,40.7451088,-3.6030185,Www.audiosuite.es,Recording Studio,"Príncipe, 14, 28710 El Molar Madrid",1881
+364,perales-de-tajuna,40.2325718,-3.3517265,Las Vegas,Café,"Autov. Levante, Km 37,87, 28540 Perales de Tajuña Comunidad de Madrid",1953
+365,perales-de-tajuna,40.2325718,-3.3517265,El Talisman,Café,"Calle Vega, 19, 28550 Tielmes Comunidad de Madrid",3438
+366,pinto,40.240985,-3.7005072,Dunkin´España,Café,"Planta Baja Avenida Rio Guadalquivir, 13, 28906 Getafe Comunidad de Madrid",3567
+367,pinto,40.240985,-3.7005072,Bar el Rincon,Café,"Calle de Santa Teresa, 1, 28320 Pinto Comunidad de Madrid",264
+368,pinto,40.240985,-3.7005072,La Pinteña,Beer Bar,"Calle Alfaro, 16, Pinto Comunidad de Madrid",476
+369,pinto,40.240985,-3.7005072,Triana,Bar,"Calle Sevilla, 5, 28320 Pinto Comunidad de Madrid",558
+370,pinto,40.240985,-3.7005072,Coffyright,Café,"Avenida del Rio Guadalquivir, 13, 28906 Getafe Comunidad de Madrid",3531
+371,pinto,40.240985,-3.7005072,Turín 15 Café & Chill Out,Cocktail Bar,"Calle Turín, 15, 28983 Parla Comunidad de Madrid",4702
+372,pinto,40.240985,-3.7005072,Estación Alpujarras,Bus Stop,28320 Pinto Comunidad de Madrid,815
+373,pinto,40.240985,-3.7005072,Homestudio Musiccesar,Recording Studio,"Estrella Polar Parla-Este, 14, 28983 Parla Madrid",4615
+374,pinuecar-gandullas,41.03554635,-3.599475586218161,Taberna el Trebol,Café,"Calle Rosario, 1, 28191 Prádena del Rincón Comunidad de Madrid",4970
+375,pozuelo-de-alarcon,40.4346528,-3.814834,Punto de Encuentro,Café,"Plaza Gobernador, s/n, 28224 Pozuelo de Alarcón Comunidad de Madrid",1844
+376,pozuelo-de-alarcon,40.4346528,-3.814834,Cafe Pizarro,Café,"Calle Sagunto, 22 (Cirilo Palomo), 28224 Pozuelo de Alarcón Comunidad de Madrid",342
+377,pozuelo-de-alarcon,40.4346528,-3.814834,Saboreate y cafe - pozuelo estacion,Café,"Segundo Mata, 1, 28224 Pozuelo de Alarcón Comunidad de Madrid",2027
+378,pozuelo-de-alarcon,40.4346528,-3.814834,Copa Club,Café,"Calle Barlovento, 1, 28223 Pozuelo de Alarcón Comunidad de Madrid",2272
+379,pozuelo-de-alarcon,40.4346528,-3.814834,Taruffi,Café,"Calle de las Moreras, 2 (Centro Oeste), 28222 Majadahonda Comunidad de Madrid",4936
+380,pozuelo-de-alarcon,40.4346528,-3.814834,The Fresh factory,Restaurant,"Calle Solano, 3, 28223 Pozuelo de Alarcón Comunidad de Madrid",3106
+381,pozuelo-de-alarcon,40.4346528,-3.814834,Miranda,Café,"Calle Volturno, 2, 28223 Pozuelo de Alarcón Comunidad de Madrid",3126
+382,pozuelo-de-alarcon,40.4346528,-3.814834,Vait Sexta Avenida,Café,,3679
+383,pozuelo-de-alarcon,40.4346528,-3.814834,Sandwich Club,Café,28223 Pozuelo de Alarcón Comunidad de Madrid,2107
+384,pozuelo-de-alarcon,40.4346528,-3.814834,Europa II,Café,"Musgo, 2, 28023 Madrid Comunidad de Madrid",3762
+385,pozuelo-de-alarcon,40.4346528,-3.814834,Natural Acoustic Recordings,Recording Studio,"Avenida Europa, 32, 28023 Madrid Comunidad de Madrid",2759
+386,pozuelo-de-alarcon,40.4346528,-3.814834,Multidesing,Recording Studio,"Calle Estribor, 2, 28223 Pozuelo de Alarcón Madrid",1774
+387,pozuelo-de-alarcon,40.4346528,-3.814834,Europroducciones Tv,Media Agency,"Calle Virgilio, 5, 28223 Pozuelo de Alarcón Madrid",4610
+388,pozuelo-de-alarcon,40.4346528,-3.814834,Charlie Records,Recording Studio,"Ronda Buganvilla del Rey, 41, 28023 Madrid Madrid",4770
+389,pozuelo-del-rey,40.3664055,-3.3200082,La Fontana,Café,"Plaza Centro Comercial la, 0, 28514 Nuevo Baztán Comunidad de Madrid",4850
+390,pradena-del-rincon,41.0443369,-3.5402284,Taberna el Trebol,Café,"Calle Rosario, 1, 28191 Prádena del Rincón Comunidad de Madrid",95
+391,quijorna,40.4290833,-4.0565378,Churrería Puerta del Sol,Café,"Calle Real, 29, 28691 Villanueva de la Cañada Comunidad de Madrid",4839
+392,reduena,40.8158054,-3.6039309,Restaurante Genova,Café,"Calle Puerto de Despeñaperros, s/n, 28729 Venturada Madrid",3055
+393,ribatejada,40.6664949,-3.3919178,El Bosque,Amusement Park,"Avenida de la Industria, 17, 19170 Guadalajara Castilla-La Mancha",4671
+394,rivas-vaciamadrid,40.3536054,-3.5310879,Dulce Café,Café,"Calle Margarita Xirgu, 2 (Avenida Plaza De Las Madres De Mayo), 28523 Rivas-Vaciamadrid Madrid",2775
+395,rivas-vaciamadrid,40.3536054,-3.5310879,Dunkin´España,Café,"Calle Marie Curie, 4, 28521 Rivas-Vaciamadrid Madrid",1906
+396,rivas-vaciamadrid,40.3536054,-3.5310879,Pasteleria Bouquet,Café,"Calle María Zambrano, 3, 28522 Rivas-Vaciamadrid Comunidad de Madrid",274
+397,rivas-vaciamadrid,40.3536054,-3.5310879,Del Perú y Punto,Bar,"Calle Girasol, 6, 28522 Rivas-Vaciamadrid Comunidad de Madrid",761
+398,rivas-vaciamadrid,40.3536054,-3.5310879,Cafetería el Metro,Café,"Semiesquina Avenida Pablo Iglesias, 84, 28529 Rivas-Vaciamadrid Comunidad de Madrid",1124
+399,rivas-vaciamadrid,40.3536054,-3.5310879,Kremma,Café,"Calle Aurelio Álvarez, 4, 28521 Rivas-Vaciamadrid Comunidad de Madrid",1527
+400,rivas-vaciamadrid,40.3536054,-3.5310879,Cafeteria cairos,Café,"Avenida Levante, 124, 28521 Rivas-Vaciamadrid Comunidad de Madrid",3203
+401,rivas-vaciamadrid,40.3536054,-3.5310879,Merca Rivas Dos,Café,"Avenida José Hierro, 36, 28522 Rivas-Vaciamadrid Madrid",594
+402,rivas-vaciamadrid,40.3536054,-3.5310879,Merca-rivas dos,Café,"Plaza Clarin, 1, 28051 Madrid Madrid",2129
+403,rivas-vaciamadrid,40.3536054,-3.5310879,Parada 331 Pilar Miro-Jovellanos,Bus Stop,"Avenida de Pilar Miró 63, 28521 Rivas-Vaciamadrid Comunidad de Madrid",1184
+404,rivas-vaciamadrid,40.3536054,-3.5310879,Brazil,Recording Studio,"Calle de la Fundición, 4, 28522 Rivas-Vaciamadrid Comunidad de Madrid",760
+405,rivas-vaciamadrid,40.3536054,-3.5310879,Cintabierta,Recording Studio,"Calle Lago Constanza, 90, 28521 Rivas-Vaciamadrid Comunidad de Madrid",3368
+406,rivas-vaciamadrid,40.3536054,-3.5310879,Turtle Studio,Recording Studio,"Calle Sauces, 22, 28522 Rivas-Vaciamadrid Madrid",1120
+407,rivas-vaciamadrid,40.3536054,-3.5310879,Cromadrid,Recording Studio,"Carretilla, 3, 28522 Rivas-Vaciamadrid Madrid",1207
+408,robledo-de-chavela,40.5009201,-4.2380999,Bar Sevilla,Bar,"Plaza España, 5, 28294 Robledo de Chavela Comunidad de Madrid",35
+409,rozas-de-madrid-las,40.4933095,-3.8758396,Crepes & Waffles,Café,"Calle Camilo Jose Cela, 2, 28232 Las Rozas Comunidad de Madrid",3060
+410,rozas-de-madrid-las,40.4933095,-3.8758396,The Chatter Cafe,Restaurant,"Calle Pablo Neruda, s/n, 28232 Las Rozas Comunidad de Madrid",2949
+411,rozas-de-madrid-las,40.4933095,-3.8758396,Nahuel Cafeteria,Café,"Calle Bruselas, 26, 28232 Las Rozas Comunidad de Madrid",1985
+412,rozas-de-madrid-las,40.4933095,-3.8758396,La Esquinita de Rozas,Brewery,"Calle Navarra Nr, 6, Las Rozas Comunidad de Madrid",11
+413,rozas-de-madrid-las,40.4933095,-3.8758396,Meeting Point las Rozas,Bar,"Plaza España, 4, 28230 Las Rozas Comunidad de Madrid",29
+414,rozas-de-madrid-las,40.4933095,-3.8758396,Castilla,Café,"Real, 20, 28231 Las Rozas Comunidad de Madrid",324
+415,rozas-de-madrid-las,40.4933095,-3.8758396,Estación de las Rozas,Café,"Salida, 18 (Estación de Renfe Las Rozas), 28231 Las Rozas Comunidad de Madrid",545
+416,rozas-de-madrid-las,40.4933095,-3.8758396,Mile,Burger Joint,"Calle Principado de Asturias, 6, 28231 Las Rozas Comunidad de Madrid",585
+417,rozas-de-madrid-las,40.4933095,-3.8758396,Tambo,Bar,"Avenida de la Coruña, 42, 28231 Las Rozas Comunidad de Madrid",652
+418,rozas-de-madrid-las,40.4933095,-3.8758396,Ileride,Café,"Calle Cólquide, 6, 28230 Las Rozas Comunidad de Madrid",718
+419,rozas-de-madrid-las,40.4933095,-3.8758396,Cezanne Producciones,Recording Studio,"Nave, 11, 28232 Las Rozas Comunidad de Madrid",1702
+420,rozas-de-madrid-las,40.4933095,-3.8758396,Sonora Majadahonda,Recording Studio,"Avenida Claveles, 74, 28221 Majadahonda Comunidad de Madrid",2517
+421,rozas-de-madrid-las,40.4933095,-3.8758396,Polka Projet,Recording Studio,"Pinos, 55, 28221 Majadahonda Madrid",2750
+422,rozas-de-puerto-real,40.3098351,-4.4912111,Burger Nete,Bar,"Calle Doctor Menéndez, 2, 28640 Cadalso de Los Vidrios Comunidad de Madrid",4597
+423,san-agustin-del-guadalix,40.679051,-3.6166004,Cafe 23,Bar,"Avenida de Madrid, 23 (Plaza Luis Carreño), 28750 San Agustín del Guadalix Comunidad de Madrid",164
+424,san-fernando-de-henares,40.4248548,-3.5350369,El Gran Café,Café,"Calle del Doctor Michavila, 27, 28821 Coslada Comunidad de Madrid",2173
+425,san-fernando-de-henares,40.4248548,-3.5350369,Chocolateria cafeteria el tazon,Café,"Calle Vicente Gaos, 3, Coslada Comunidad de Madrid",330
+426,san-fernando-de-henares,40.4248548,-3.5350369,Lorca,Café,"Avenida Irún, s/n, 28830 San Fernando de Henares Comunidad de Madrid",505
+427,san-fernando-de-henares,40.4248548,-3.5350369,Restaurante Tierra de Barros,Café,"Calle Tierra de Barros, 2, 28820 Coslada Comunidad de Madrid",1064
+428,san-fernando-de-henares,40.4248548,-3.5350369,Buenos Días Princesa,Bakery,"Plaza del Mar Caribe, 4, 28821 Coslada Comunidad de Madrid",2819
+429,san-fernando-de-henares,40.4248548,-3.5350369,Matadero,Café,"Calle del Rosario, 0, 28821 Coslada Comunidad de Madrid",2233
+430,san-fernando-de-henares,40.4248548,-3.5350369,Pastelería Agmina,Café,"Calle del Dr. Castroviejo, 5, 28821 Coslada Comunidad de Madrid",2253
+431,san-fernando-de-henares,40.4248548,-3.5350369,O'Clock,Cocktail Bar,"Calle Doctor Michavila, 10, 28821 Coslada Comunidad de Madrid",2365
+432,san-fernando-de-henares,40.4248548,-3.5350369,Yaque Enotaberna,Wine Bar,"Paseo de las Acacias, 15, 28821 Coslada Comunidad de Madrid",2385
+433,san-fernando-de-henares,40.4248548,-3.5350369,Cacao del Sol,Bar,"Calle Océano Atlántico, 2, 28821 Coslada Comunidad de Madrid",2952
+434,san-fernando-de-henares,40.4248548,-3.5350369,Elegant Bus,Bus Stop,"Avenida Aragón, 345, 28042 Madrid Comunidad de Madrid",2904
+435,san-fernando-de-henares,40.4248548,-3.5350369,La Casa del Ruido,Recording Studio,"Teatinos, 9, 28823 Coslada Comunidad de Madrid",1767
+436,san-fernando-de-henares,40.4248548,-3.5350369,Tecnicas de Sonorizacion,Recording Studio,"Avenida Ingeniero Conde de Torroja, 22, 28022 Madrid Comunidad de Madrid",3228
+437,san-fernando-de-henares,40.4248548,-3.5350369,The Soundtrack Team Estudio,Recording Studio,"Avenida Castilla, 42, 28830 San Fernando de Henares Comunidad de Madrid",4394
+438,san-lorenzo-de-el-escorial,40.5926673,-4.1471642,Croché Cafetín,Cocktail Bar,"Calle San Lorenzo, 6, 28200 El Escorial Comunidad de Madrid",172
+439,san-lorenzo-de-el-escorial,40.5926673,-4.1471642,Pan y Canela,Café,"Plaza de la Cruz, 1, 28200 El Escorial Comunidad de Madrid",157
+440,san-lorenzo-de-el-escorial,40.5926673,-4.1471642,Alaska,Café,"Plaza San Lorenzo, 4 (C. Rey), 28200 El Escorial Comunidad de Madrid",149
+441,san-lorenzo-de-el-escorial,40.5926673,-4.1471642,Terraza los Jardincillos,Café,"Plaza San Lorenzo, 18, 28200 El Escorial Comunidad de Madrid",185
+442,san-lorenzo-de-el-escorial,40.5926673,-4.1471642,caffetteria ristorante del Arte,Sandwich Spot,"Calle Floridablanca 12-14, 28200 El Escorial Comunidad de Madrid",227
+443,san-lorenzo-de-el-escorial,40.5926673,-4.1471642,Rodilla,Café,"Calle Juan de Toledo, 5, 28200 San Lorenzo de El Escorial Madrid",292
+444,san-martin-de-valdeiglesias,40.3625,-4.3986503,Bar la Estacion,Bar,"Avenida Madrid, 24, 28680 San Martín de Valdeiglesias Comunidad de Madrid",262
+445,san-martin-de-valdeiglesias,40.3625,-4.3986503,Metro coffee - bar,Bar,"Calle Mecanicos, 9, 28680 San Martín de Valdeiglesias Comunidad de Madrid",1036
+446,san-sebastian-de-los-reyes,40.5473698,-3.6260586,La Flor,Bar,"Calle Ruperto Chapi, 57, 28100 Alcobendas Comunidad de Madrid",1151
+447,san-sebastian-de-los-reyes,40.5473698,-3.6260586,Justo a Tu Gusto,Buffet,"Avenida de la Ermita, 2, 28108 Alcobendas Comunidad de Madrid",1579
+448,san-sebastian-de-los-reyes,40.5473698,-3.6260586,La Casita de Chocolate,Café,"Calle de Miraflores, 1, 28100 Alcobendas Comunidad de Madrid",1091
+449,san-sebastian-de-los-reyes,40.5473698,-3.6260586,Restaurante Alcalá,Café,"Avenida España, 78, 28700 San Sebastián de los Reyes Comunidad de Madrid",867
+450,san-sebastian-de-los-reyes,40.5473698,-3.6260586,Cervecería Alonso,Beer Bar,"Avenida Madrid, 50 (C. Guipúzcoa), 28701 San Sebastián de los Reyes Comunidad de Madrid",1348
+451,san-sebastian-de-los-reyes,40.5473698,-3.6260586,La Cañita,Night Club,"Calle Maestro Priego Lopez, 19, 28100 Alcobendas Comunidad de Madrid",2487
+452,san-sebastian-de-los-reyes,40.5473698,-3.6260586,El Café de la Plaza,Café,"Plaza de la Constitución, 6, 28701 San Sebastián de los Reyes Comunidad de Madrid",24
+453,san-sebastian-de-los-reyes,40.5473698,-3.6260586,Cafetería Road,Café,"Calle Ramón Esteban, 1, 28701 San Sebastián de los Reyes Comunidad de Madrid",371
+454,san-sebastian-de-los-reyes,40.5473698,-3.6260586,Marabe,Café,"Calle Sacramento, 2, 28700 San Sebastián de los Reyes Comunidad de Madrid",376
+455,san-sebastian-de-los-reyes,40.5473698,-3.6260586,Vait,Café,"Avenida de Europa, 13, 28108 Alcobendas Comunidad de Madrid",4033
+456,san-sebastian-de-los-reyes,40.5473698,-3.6260586,Linea 4,Bus Stop,"Hermanos Carrasco Garrorena, 4, 06010  Badajoz",415
+457,san-sebastian-de-los-reyes,40.5473698,-3.6260586,Conservera Bromar,Natural Park,"Avenida Antonio Machado, 81, 28700 San Sebastián de los Reyes Madrid",1251
+458,san-sebastian-de-los-reyes,40.5473698,-3.6260586,Dopplermedia,Recording Studio,"Calle Valencia, 127, 28100 Alcobendas Comunidad de Madrid",1125
+459,san-sebastian-de-los-reyes,40.5473698,-3.6260586,Tempo Studio Records,Recording Studio,"Carretera de Fuencarral, 44, 28108 Alcobendas Comunidad de Madrid",2499
+460,san-sebastian-de-los-reyes,40.5473698,-3.6260586,Aaa.Sonido,Recording Studio,"Paseo de Guadalajara, 98, 28701 San Sebastián de los Reyes Madrid",1651
+461,san-sebastian-de-los-reyes,40.5473698,-3.6260586,Tecnison,Recording Studio,"Avenida Industria, 45, 28108 Alcobendas Madrid",2760
+462,san-sebastian-de-los-reyes,40.5473698,-3.6260586,Dopplermedia,Recording Studio,"Sonrisa Fuente Lucha, 4, 28100 Alcobendas Madrid",2807
+463,santa-maria-de-la-alameda,40.5958248,-4.2579208,Hermanos Díez,Café,"Calle Guzmán el Bueno, 6, Madrid Comunidad de Madrid",3144
+464,serna-del-monte-la,41.0305793,-3.6252636,El Espolón,Bar,"Calle Real, 60, 28730 Buitrago del Lozoya Comunidad de Madrid",4328
+465,serranillos-del-valle,40.2044509,-3.8851988,Ele,Café,"Calle Grama, 6, 28971 Griñón Comunidad de Madrid",3122
+466,serranillos-del-valle,40.2044509,-3.8851988,La Gloria,Café,"Calle Espejuelo, 2, 45216 Carranque Castilla-La Mancha",4040
+467,sevilla-la-nueva,40.3475422,-4.0275268,El Museo,Bar,"Plaza de España, 14, 28609 Sevilla la Nueva Comunidad de Madrid",56
+468,talamanca-de-jarama,40.7454625,-3.5127366,Bar Heladeria Sole,Bar,"Urbanización Rosario, s/n, 28160 Talamanca de Jarama Comunidad de Madrid",331
+469,tielmes,40.2465011,-3.3136206,El Talisman,Café,"Calle Vega, 19, 28550 Tielmes Comunidad de Madrid",197
+470,tielmes,40.2465011,-3.3136206,Las Vegas,Café,"Autov. Levante, Km 37,87, 28540 Perales de Tajuña Comunidad de Madrid",3190
+471,titulcia,40.1379148,-3.5709978,Swing Café,Bar,"Calle Capitán Antonio de Oro Pulido, 31, 28350 Ciempozuelos Comunidad de Madrid",4558
+472,torrejon-de-ardoz,40.4587767,-3.4793343,Mayri,Café,"Calle Lisboa, 33, 28850 Torrejón de Ardoz Comunidad de Madrid",897
+473,torrejon-de-ardoz,40.4587767,-3.4793343,Gran Café Praga,Café,"Calle de las Marquesas, 2, 28850 Torrejón de Ardoz Comunidad de Madrid",83
+474,torrejon-de-ardoz,40.4587767,-3.4793343,New York,Bar,"Calle Hospital, 5, 28850 Torrejón de Ardoz Comunidad de Madrid",123
+475,torrejon-de-ardoz,40.4587767,-3.4793343,Xapata,Bar,"Calle Ramón y Cajal, 7, Torrejón de Ardoz Comunidad de Madrid",134
+476,torrejon-de-ardoz,40.4587767,-3.4793343,Cafés la Mexicana,Café,"Calle Enmedio, 10, 28850 Torrejón de Ardoz Comunidad de Madrid",141
+477,torrejon-de-ardoz,40.4587767,-3.4793343,Cafeteria Montecarlo,Bar,"Avenida Constitución, 26, 28850 Torrejón de Ardoz Madrid",370
+478,torrejon-de-ardoz,40.4587767,-3.4793343,Café de Baralia,Café,"Calle Londres, 1, 28850 Torrejón de Ardoz Comunidad de Madrid",384
+479,torrejon-de-ardoz,40.4587767,-3.4793343,Asador Castilla,Café,"Avenida Fronteras, 14, 28850 Torrejón de Ardoz Comunidad de Madrid",415
+480,torrejon-de-ardoz,40.4587767,-3.4793343,Tarahumara Lounge Café,Bar,"Las Viñas, 1, 28850 Torrejón de Ardoz Comunidad de Madrid",547
+481,torrejon-de-ardoz,40.4587767,-3.4793343,El Centro,Café,"Avenida de la Constitución, 88-100, 28850 Torrejón de Ardoz Comunidad de Madrid",565
+482,torrejon-de-ardoz,40.4587767,-3.4793343,The Soundtrack Team Estudio,Recording Studio,"Avenida Castilla, 42, 28830 San Fernando de Henares Comunidad de Madrid",1708
+483,torrejon-de-la-calzada,40.2006804,-3.7993298,Zona Ocio ORANGE,Café,"Griñón, 6, 28991 Torrejón de la Calzada Comunidad de Madrid",184
+484,torrejon-de-la-calzada,40.2006804,-3.7993298,Biergarten,Beer Bar,"Avenida de Juan Carlos I, 10, 28981 Parla Comunidad de Madrid",3851
+485,torrejon-de-la-calzada,40.2006804,-3.7993298,Restaurante-Cafetería Alameda,Bar,"Avenida Juan Carlos I, 3, Parla Comunidad de Madrid",4365
+486,torrejon-de-la-calzada,40.2006804,-3.7993298,Ele,Café,"Calle Grama, 6, 28971 Griñón Comunidad de Madrid",4445
+487,torrejon-de-la-calzada,40.2006804,-3.7993298,Café Bar la Bruja Motera,Café,"Calle Moratalaz, 16, 28977 Casarrubuelos Comunidad de Madrid",4458
+488,torrejon-de-la-calzada,40.2006804,-3.7993298,Bar la Perdiz,Café,"Calle San Anton, 34, 28982 Parla Comunidad de Madrid",4672
+489,torrejon-de-la-calzada,40.2006804,-3.7993298,Idemm Estudios,Recording Studio,"Calle Hoyos, 10, 28981 Parla Comunidad de Madrid",4914
+490,torrejon-de-velasco,40.1869283,-3.7769069,Zona Ocio ORANGE,Café,"Griñón, 6, 28991 Torrejón de la Calzada Comunidad de Madrid",2611
+491,torrejon-de-velasco,40.1869283,-3.7769069,Biergarten,Beer Bar,"Avenida de Juan Carlos I, 10, 28981 Parla Comunidad de Madrid",4399
+492,torrelodones,40.5762809,-3.928603,Cafe Babel,Movie Theater,"Calle Real, 39, 28250 Torrelodones Comunidad de Madrid",255
+493,torrelodones,40.5762809,-3.928603,Churrería Pastorcito Chocolateria,Café,"Carnicería, 2, 28250 Torrelodones Comunidad de Madrid",50
+494,torrelodones,40.5762809,-3.928603,Más Que Café,Café,"Calle José Sánchez Rubio, 16, 28250 Torrelodones Comunidad de Madrid",122
+495,torrelodones,40.5762809,-3.928603,Animari,Café,"Avenida de la Fontanilla, 1, 28250 Torrelodones Comunidad de Madrid",1091
+496,torrelodones,40.5762809,-3.928603,Cake Factory Café,Café,"Avenida de la Fontanilla, 1, 28250 Torrelodones Comunidad de Madrid",1108
+497,torrelodones,40.5762809,-3.928603,El quiosco del Bulevar,Café,"Calle Rosario Manzaneque Nº 1 (Rosario Manzaneque 1), 28250 Torrelodones Comunidad de Madrid",2381
+498,torrelodones,40.5762809,-3.928603,Marylebone,Café,"Calle Piamonte, 15, 28420 Galapagar Comunidad de Madrid",3355
+499,torrelodones,40.5762809,-3.928603,Snacks,Café,"Cmno. Real, 1, Las Rozas Comunidad de Madrid",4753
+500,torrelodones,40.5762809,-3.928603,Elefant Records,Recording Studio,"Calle del Doctor Palacios Carvajal, 1, 28250 Torrelodones Comunidad de Madrid",443
+501,torrelodones,40.5762809,-3.928603,Piccolo,Recording Studio,"Calle Ángel Yagüe, 1, 28250 Torrelodones Madrid",2335
+502,tres-cantos,40.6065826,-3.7065333,Sarah's Coffee House,Café,"Sector Foresta, 39, 28760 Tres Cantos Comunidad de Madrid",660
+503,tres-cantos,40.6065826,-3.7065333,VIPS CC Tres Cantos,Burger Joint,"Avenida de los Labradores 9-11, 28760 Tres Cantos Comunidad de Madrid",817
+504,tres-cantos,40.6065826,-3.7065333,Cafetería Pastelería Lusitania. Sabores de Portugal,Café,"Sector Oficios, 16, 28760 Tres Cantos Comunidad de Madrid",739
+505,tres-cantos,40.6065826,-3.7065333,Lancara,Café,"Descobridores, 1, 28760 Tres Cantos Comunidad de Madrid",765
+506,tres-cantos,40.6065826,-3.7065333,Cafeteria Lancara,Bar,"Sector de los Descubridores, 4, 28760 Tres Cantos Comunidad de Madrid",785
+507,tres-cantos,40.6065826,-3.7065333,El Kiosco,Café,"Avenida Labradores, 9 (C.C. Ciudad Tres Cantos), 28760 Tres Cantos Comunidad de Madrid",812
+508,tres-cantos,40.6065826,-3.7065333,Cafe Bar Trotaconventos,Bar,"Descubridores, 5, 28760 Tres Cantos Comunidad de Madrid",823
+509,tres-cantos,40.6065826,-3.7065333,Cafeteria maná,Café,"Calle de Neptuno, 8 (Avenida de los artesanos), 28760 Tres Cantos Comunidad de Madrid",1085
+510,tres-cantos,40.6065826,-3.7065333,Restaurante Cafetería Estación 3 Cantos,Café,"Avenida de los Labradores, 1, 28760 Tres Cantos Comunidad de Madrid",1149
+511,tres-cantos,40.6065826,-3.7065333,Cafe 37,Bar,"Avenida de Viñuelas, 37, 28760 Tres Cantos Comunidad de Madrid",1173
+512,valdemorillo,40.5016772,-4.0688878,La Espiga,Wine Bar,"Plaza de la Constitución, 13, 28210 Valdemorillo Comunidad de Madrid",56
+513,valdemoro,40.1888604,-3.67143,La Llave,Café,"Calle Osa Menor, 12, 28341 Valdemoro Comunidad de Madrid",165
+514,valdemoro,40.1888604,-3.67143,OM Restaurante Hindú,Café,"Paseo de la Estacion, 10, 28343 Valdemoro Comunidad de Madrid",362
+515,valdemoro,40.1888604,-3.67143,Estrella de Elola cafeteria,Café,"Calle Estrella de Elola, 17, 28340 Valdemoro Comunidad de Madrid",693
+516,valdemoro,40.1888604,-3.67143,La Terraza del Duque,Café,"Calle Libertad, 1, 28341 Valdemoro Madrid",808
+517,valdemoro,40.1888604,-3.67143,Raulrestobar,Café,"Glorieta del Universo, 12, 28340 Valdemoro Comunidad de Madrid",1003
+518,valdemoro,40.1888604,-3.67143,La Tortitas Cafeteria - Heladeria,Bar,"Avenida Mar Mediterráneo, s/n, 28341 Valdemoro Madrid",2292
+519,valdemoro,40.1888604,-3.67143,Querol Alimentaria,Natural Park,"Carretera Huelva, 4, 28342 Valdemoro Madrid",2450
+520,valdemoro,40.1888604,-3.67143,Opportunity-Records,Recording Studio,"Calle de Juno, 64, 28341 Valdemoro Comunidad de Madrid",1159
+521,valdeolmos-alalpardo,40.6385429,-3.4532436,Ronabus,Bus Stop,"Carretera Algete - Casar de Talamanca, Nave, 6, 28130 Valdeolmos-Alalpardo Comunidad de Madrid",15
+522,valdepielagos,40.7610144,-3.4656251,Bar Heladeria Sole,Bar,"Urbanización Rosario, s/n, 28160 Talamanca de Jarama Comunidad de Madrid",3995
+523,valdetorres-de-jarama,40.6956481,-3.5146559,Pastelería Panadería el Arroyo,Bakery,"Calle Paseo Santísimo Cristo de los Ultrajes, 2, 28150 Valdetorres de Jarama Comunidad de Madrid",23
+524,velilla-de-san-antonio,40.367166,-3.4874435,Dulce Café,Café,"Calle Margarita Xirgu, 2 (Avenida Plaza De Las Madres De Mayo), 28523 Rivas-Vaciamadrid Madrid",4565
+525,velilla-de-san-antonio,40.367166,-3.4874435,Dunkin´España,Café,"Calle Marie Curie, 4, 28521 Rivas-Vaciamadrid Madrid",4727
+526,velilla-de-san-antonio,40.367166,-3.4874435,Casa de la Cultura,Theater,"Plaza Ilustración, 9, 28840 Mejorada del Campo Comunidad de Madrid",3291
+527,velilla-de-san-antonio,40.367166,-3.4874435,La Sabana CAFÉ,Bar,"Avenida de la Constitución, s/n, 28840 Mejorada del Campo Comunidad de Madrid",3296
+528,velilla-de-san-antonio,40.367166,-3.4874435,Cafetería el Metro,Café,"Semiesquina Avenida Pablo Iglesias, 84, 28529 Rivas-Vaciamadrid Comunidad de Madrid",3717
+529,velilla-de-san-antonio,40.367166,-3.4874435,Kremma,Café,"Calle Aurelio Álvarez, 4, 28521 Rivas-Vaciamadrid Comunidad de Madrid",4121
+530,velilla-de-san-antonio,40.367166,-3.4874435,Pasteleria Bouquet,Café,"Calle María Zambrano, 3, 28522 Rivas-Vaciamadrid Comunidad de Madrid",4259
+531,velilla-de-san-antonio,40.367166,-3.4874435,Boulevard 3,Café,"Radial, 3, Madrid Comunidad de Madrid",4506
+532,velilla-de-san-antonio,40.367166,-3.4874435,Del Perú y Punto,Bar,"Calle Girasol, 6, 28522 Rivas-Vaciamadrid Comunidad de Madrid",4699
+533,velilla-de-san-antonio,40.367166,-3.4874435,Cafeteria cairos,Café,"Avenida Levante, 124, 28521 Rivas-Vaciamadrid Comunidad de Madrid",4807
+534,velilla-de-san-antonio,40.367166,-3.4874435,Parada 331 Pilar Miro-Jovellanos,Bus Stop,"Avenida de Pilar Miró 63, 28521 Rivas-Vaciamadrid Comunidad de Madrid",2806
+535,velilla-de-san-antonio,40.367166,-3.4874435,Brazil,Recording Studio,"Calle de la Fundición, 4, 28522 Rivas-Vaciamadrid Comunidad de Madrid",4750
+536,velilla-de-san-antonio,40.367166,-3.4874435,Cintabierta,Recording Studio,"Calle Lago Constanza, 90, 28521 Rivas-Vaciamadrid Comunidad de Madrid",4801
+537,velilla-de-san-antonio,40.367166,-3.4874435,Heat Room,Recording Studio,"Aragon, 35, 28840 Mejorada del Campo Madrid",2153
+538,velilla-de-san-antonio,40.367166,-3.4874435,Turtle Studio,Recording Studio,"Calle Sauces, 22, 28522 Rivas-Vaciamadrid Madrid",4550
+539,vellon-el,40.7677965,-3.5820099,Restaurante Genova,Café,"Calle Puerto de Despeñaperros, s/n, 28729 Venturada Madrid",3117
+540,vellon-el,40.7677965,-3.5820099,Www.audiosuite.es,Recording Studio,"Príncipe, 14, 28710 El Molar Madrid",3310
+541,venturada,40.7985257,-3.6207369,Restaurante Genova,Café,"Calle Puerto de Despeñaperros, s/n, 28729 Venturada Madrid",1603
+542,villamanta,40.2990939,-4.1090399,Cafeteria Sanzur,Café,"Avenida Generalisimo, 24 (Segovia), Villamanta Comunidad de Madrid",214
+543,villanueva-de-la-canada,40.4472106,-4.002795,La Fuente,Café,"Calle del Olivar, 1-11, 28691 Villanueva de la Cañada Comunidad de Madrid",152
+544,villanueva-de-la-canada,40.4472106,-4.002795,Churrería Puerta del Sol,Café,"Calle Real, 29, 28691 Villanueva de la Cañada Comunidad de Madrid",244
+545,villanueva-de-la-canada,40.4472106,-4.002795,Producciones Concentricas,Recording Studio,"Calle del Campo, 14, 28690 Brunete Madrid",4836
+546,villanueva-del-pardillo,40.4949232,-3.9600065,D'Tapas,Bar,"Avenida Juan Carlos I Nº3 (calle del campo), 28229 Villanueva del Pardillo Comunidad de Madrid",194
+547,villanueva-del-pardillo,40.4949232,-3.9600065,La Historia,Bar,"Calle Míster Lodge, 21 (Calle Mister Lodge), 28229 Villanueva del Pardillo Comunidad de Madrid",396
+548,villanueva-del-pardillo,40.4949232,-3.9600065,Snacks,Café,"Cmno. Real, 1, Las Rozas Comunidad de Madrid",4680
+549,villanueva-del-pardillo,40.4949232,-3.9600065,Edificaciones Musicales,Recording Studio,"P.º San Francisco de Sales, s/n, 28003 Madrid Madrid",840
+550,villar-del-olmo,40.3364465,-3.2355624,La Fontana,Café,"Plaza Centro Comercial la, 0, 28514 Nuevo Baztán Comunidad de Madrid",3215
+551,villaviciosa-de-odon,40.3573787,-3.9002334,Pastelería Manacor,Café,"Calle Plasencia, 67, 28935 Móstoles Comunidad de Madrid",1735
+552,villaviciosa-de-odon,40.3573787,-3.9002334,Cafetería Placebo's,Café,"Calle Carretas, 46, 28670 Villaviciosa de Odón Comunidad de Madrid",53
+553,villaviciosa-de-odon,40.3573787,-3.9002334,Margaritas Cafe,Café,"Plaza Margaritas, 9, 28670 Villaviciosa de Odón Comunidad de Madrid",298
+554,villaviciosa-de-odon,40.3573787,-3.9002334,Mokalia Móstoles,Café,"Avenida Alcalde de Móstoles, 27, 28933 Móstoles Comunidad de Madrid",3708
+555,villaviciosa-de-odon,40.3573787,-3.9002334,Le Petit Café,Café,"Avenida Principe de Asturias, 199 (Camino Bispo), 28670 Villaviciosa de Odón Comunidad de Madrid",845
+556,villaviciosa-de-odon,40.3573787,-3.9002334,Unity Deli by Sodexo (Corner a),Café,"Calle Tajo, s/n, 28670 Madrid Comunidad de Madrid",2342
+557,villaviciosa-de-odon,40.3573787,-3.9002334,Sports Café,Café,"Calle Tajo, s/n, 28670 Madrid Comunidad de Madrid",2350
+558,villaviciosa-de-odon,40.3573787,-3.9002334,Churrería Aviles,Bar,"Avenida Olímpica, 7, 28935 Móstoles Comunidad de Madrid",3650
+559,villaviciosa-de-odon,40.3573787,-3.9002334,Cafes 1808,Café,"Calle Fragua, 6, 28933 Móstoles Comunidad de Madrid",3664
+560,villaviciosa-de-odon,40.3573787,-3.9002334,Pound Café,Café,"Calle Salvador Dalí 2 (Calle Alonso Cano), 28933 Móstoles Comunidad de Madrid",3705
+561,villaviciosa-de-odon,40.3573787,-3.9002334,Autocares Garmabus,Bus Stop,"Avenida del Alcalde de Móstoles, 9, 28932 Móstoles Comunidad de Madrid",4316
+562,villaviciosa-de-odon,40.3573787,-3.9002334,Estudios Xlr,Recording Studio,"San Francisco, 21, 28670 Villaviciosa de Odón Madrid",414
+563,villaviciosa-de-odon,40.3573787,-3.9002334,Lounge Music,Recording Studio,"Calle Joaquin Sorolla, 5, 28670 Villaviciosa de Odón Madrid",1064
+564,villaviciosa-de-odon,40.3573787,-3.9002334,Monaguillo Records,Recording Studio,"Pintor Rosales, 6, 28932 Móstoles Madrid",4092
+565,villaviciosa-de-odon,40.3573787,-3.9002334,Minino Records,Recording Studio,"Calle Pintor de Rosales, 6, 28932 Móstoles Madrid",4092
+566,villavieja-del-lozoya,41.0063622,-3.6716291,El Espolón,Bar,"Calle Real, 60, 28730 Buitrago del Lozoya Comunidad de Madrid",3209
+567,zarzalejo,40.5483016,-4.1815899,Coté Café,Café,"Calle del Venero, 6, 28293 Zarzalejo Comunidad de Madrid",162
